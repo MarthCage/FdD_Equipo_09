@@ -31,7 +31,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="https://github.com/user-attachments/assets/eb9e2934-5fa1-4900-9a22-6802bf15dbb0" width="90"/> | **Aldair Castillo** | ing informatica | Ciencias de la computación, ing mecatrónica |
 | <img src="https://github.com/user-attachments/assets/6891901c-af1c-4b23-b594-2a745c85ff54" width="90"/> | **Anderson Bruno** | ing industrial | Diseño de prototipos, creatividad aplicada |
 | <img src="https://github.com/user-attachments/assets/9e152681-dc15-48df-9c82-c2efbf389602" width="90"/> | **Angel Valverde** | Ing. Ambiental | Comunicación , Acertivo  |
-| <img src="https://github.com/user-attachments/assets/b88187d5-39b3-4e49-9d16-0a0d4f631833" width="90"/> | **Xiomara Quispe** | Ing. Industrial | Optimización de procesos, análisis de datos |
+| <img src="https://github.com/user-attachments/assets/d5b56a24-aa5d-4b1e-87ca-f264b683b09e" width="90"/> | **Xiomara Quispe** | Ing. Industrial | Optimización de procesos, análisis de datos |
 
 ---
 

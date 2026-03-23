@@ -33,7 +33,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="https://github.com/user-attachments/assets/7ba1522d-1ccb-41ff-a852-5ad3a9dc7ce0" width="90"/> | **Angel Valverde** | Ing. Ambiental | Comunicación , Acertivo  |
 | <img src="https://github.com/user-attachments/assets/0de3f2ea-2082-42f7-8232-ba2f1da52a8b" width="90"/> | **Xiomara Quispe** | Ing. Industrial | Optimización de procesos, análisis de datos |
 
----![WhatsApp Image 2026-03-22 at 8 22 04 PM]()
+
 
 
 ## 📌 Resumen Final  

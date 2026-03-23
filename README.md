@@ -30,7 +30,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="https://github.com/user-attachments/assets/34276217-d3c6-42ad-885b-6b6cef58bac1" width="90"/> | **Martha Medina** | Líder del equipo | Programación, creatividad,  |
 | <img src="https://github.com/user-attachments/assets/cec329c3-8dcf-4abb-a30e-115c8274395e" width="90"/> | **Aldair Castillo** | Ing. Informatica | Ciencias de la computación, ing mecatrónica |
 | <img src="https://github.com/user-attachments/assets/6891901c-af1c-4b23-b594-2a745c85ff54" width="90"/> | **Anderson Bruno** | Ing. Industrial | Diseño de prototipos, creatividad aplicada |
-| <img src="https://github.com/user-attachments/assets/897daadf-9713-4456-93b6-b079772ac7ce" width="90"/> | **Angel Valverde** | Ing. Ambiental | Comunicación , Acertivo  |
+| <img src="https://github.com/user-attachments/assets/7ba1522d-1ccb-41ff-a852-5ad3a9dc7ce0" width="90"/> | **Angel Valverde** | Ing. Ambiental | Comunicación , Acertivo  |
 | <img src="https://github.com/user-attachments/assets/d5b56a24-aa5d-4b1e-87ca-f264b683b09e" width="90"/> | **Xiomara Quispe** | Ing. Industrial | Optimización de procesos, análisis de datos |
 
 ---

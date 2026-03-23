@@ -27,13 +27,14 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="https://github.com/user-attachments/assets/34276217-d3c6-42ad-885b-6b6cef58bac1" width="90"/> | **Martha Medina** | Líder del equipo | Programación, creatividad,  |
+| <img src="https://github.com/user-attachments/assets/0d72d991-ac0f-4672-80e5-4e305a606c2e" width="90"/> | **Martha Medina** | Líder del equipo | Programación, creatividad,  |
 | <img src="https://github.com/user-attachments/assets/cec329c3-8dcf-4abb-a30e-115c8274395e" width="90"/> | **Aldair Castillo** | Ing. Informatica | Ciencias de la computación, ing mecatrónica |
 | <img src="https://github.com/user-attachments/assets/6891901c-af1c-4b23-b594-2a745c85ff54" width="90"/> | **Anderson Bruno** | Ing. Industrial | Diseño de prototipos, creatividad aplicada |
 | <img src="https://github.com/user-attachments/assets/7ba1522d-1ccb-41ff-a852-5ad3a9dc7ce0" width="90"/> | **Angel Valverde** | Ing. Ambiental | Comunicación , Acertivo  |
 | <img src="https://github.com/user-attachments/assets/0de3f2ea-2082-42f7-8232-ba2f1da52a8b" width="90"/> | **Xiomara Quispe** | Ing. Industrial | Optimización de procesos, análisis de datos |
 
----
+---![WhatsApp Image 2026-03-22 at 8 22 04 PM]()
+
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  

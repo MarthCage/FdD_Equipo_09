@@ -20,7 +20,7 @@ Somos el **Equipo 09** del curso **Fundamentos de Diseño 2026-1**, conformado p
     </td>
     <td>
       <p align="center">
-      <img width="609" height="347" alt="Estadística" src="https://github.com/user-attachments/assets/5f9e68a8-bc4f-491b-8bb2-efd41e26544b" />
+      <img width="609" height="347" alt="Estadística" src="https://github.com/user-attachments/assets/66241e83-8847-4add-9458-e6d1a3074e4b" />
       </p>
     </td>
   </tr>
@@ -51,4 +51,5 @@ Somos el **Equipo 09** del curso **Fundamentos de Diseño 2026-1**, conformado p
 
 ## 📌 Resumen Final  
 > Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
+
 

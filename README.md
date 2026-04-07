@@ -64,6 +64,16 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
 
 ---
 
+### <code> Objetivos ── .✦📸 </code>
+
+- Diseñar un sistema con tecnología ESP32 para detectar y ahuyentar al Desmodus rotundus en zonas rurales.
+- Implementar una cámara con inteligencia artificial que lo identifique y lo diferencie de otros animales.
+- Integrar mecanismos de respuesta como luces y sonidos para ahuyentarlo sin dañarlo.
+- Reducir las mordeduras en el ganado y el riesgo de enfermedades como la rabia.
+- Contribuir al ODS 15 promoviendo el equilibrio entre ganadería y ecosistema.
+
+---
+
 Bibliografías:
 1.	Milagros Solagne Gonzales Barba. Frecuencia y distribución geográfica de las mordeduras por Desmodus rotundus en animales de producción de crianza a traspatio en la región Lima, Perú [Internet]. 2017. Disponible en: https://repositorio.upch.edu.pe/server/api/core/bitstreams/5540be9d-4b42-4298-a90d-b5a1255d5b61/content 
 2.	Ormaeche M M, Gómez-Benavides J. Factores de riesgo para mordeduras por murciélagos hematófagos en el valle del río Apurímac. Rev Peru Med Exp Salud Pública [Internet]. enero de 2007 [citado 3 de abril de 2026];24(1):89-92. Disponible en: http://www.scielo.org.pe/scielo.php?script=sci_abstract&pid=S1726-46342007000100012&lng=es&nrm=iso&tlng=es 

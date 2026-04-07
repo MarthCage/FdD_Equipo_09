@@ -59,7 +59,8 @@ Aparte de ello, se le añaden más dificultades, como el hecho de que las vacuna
 
 ### <code> Solución ── .✦🌍 </code> 
 Frente a este escenario, y tras analizar la magnitud de la problemática, se propone el desarrollo de un dispositivo tecnológico innovador diseñado para detectar la presencia de Desmodus rotundus en zonas ganaderas. Este sistema funcionará como una especie de “mini radar” inteligente e integrará una cámara con inteligencia artificial capaz de reconocer al murciélago y diferenciarlo de otras especies animales. Una vez detectada su presencia, el dispositivo activará mecanismos de respuesta, tales como la emisión de sonidos específicos y la proyección de luces de alta intensidad, con el propósito de ahuyentarlo sin ocasionar daño.
-Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32, pirlo que permitirá su implementación en zonas rurales mediante un bajo consumo energético y una aplicación relativamente accesible. De esta manera, se busca ofrecer una solución eficiente, sostenible y respetuosa con el equilibrio ecológico, capaz de reducir los ataques al ganado sin recurrir a métodos extremos, promoviendo así una convivencia más armónica entre la actividad ganadera y la conservación del ecosistema.
+
+Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sensores como el PIR o un sensor de luz que permitirá su implementación en zonas rurales mediante un bajo consumo energético y una aplicación relativamente accesible. De esta manera, se busca ofrecer una solución eficiente, sostenible y respetuosa con el equilibrio ecológico, capaz de reducir los ataques al ganado sin recurrir a métodos extremos, promoviendo así una convivencia más armónica entre la actividad ganadera y la conservación del ecosistema.
 
 ---
 

@@ -74,6 +74,16 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
 
 ---
 
+### <code> Patentes encontradas ── .✦📸 </code>
+<img width="782" height="747" alt="image" src="https://github.com/user-attachments/assets/7f9355b9-61c0-4d72-9fcb-f850609a24e1" />
+<img width="792" height="677" alt="image" src="https://github.com/user-attachments/assets/07cf6005-1869-4ef6-8d57-74448ad1f535" />
+<img width="766" height="792" alt="image" src="https://github.com/user-attachments/assets/8b48b5ba-42a2-4cdb-8c24-587b6b134505" />
+<img width="786" height="641" alt="image" src="https://github.com/user-attachments/assets/f30c707e-e1f9-488e-8648-032df7bd4ce5" />
+
+
+
+
+
 Bibliografías:
 1.	Milagros Solagne Gonzales Barba. Frecuencia y distribución geográfica de las mordeduras por Desmodus rotundus en animales de producción de crianza a traspatio en la región Lima, Perú [Internet]. 2017. Disponible en: https://repositorio.upch.edu.pe/server/api/core/bitstreams/5540be9d-4b42-4298-a90d-b5a1255d5b61/content 
 2.	Ormaeche M M, Gómez-Benavides J. Factores de riesgo para mordeduras por murciélagos hematófagos en el valle del río Apurímac. Rev Peru Med Exp Salud Pública [Internet]. enero de 2007 [citado 3 de abril de 2026];24(1):89-92. Disponible en: http://www.scielo.org.pe/scielo.php?script=sci_abstract&pid=S1726-46342007000100012&lng=es&nrm=iso&tlng=es 

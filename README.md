@@ -88,7 +88,7 @@ A partir de esta perspectiva, el proyecto se centrará en la interacción entre 
 <p align = "center">
   <img width="402.5" height="414.5" alt="Captura de pantalla 2026-04-13 212824" src="https://github.com/user-attachments/assets/ce62410d-6d09-4d98-b34b-8fe0146e66f5" />
   <br>
-  <em>Figura 1. Fotografía de Desmodus rotundus. A.Cuerpo completo, B.Cabeza, C.Garras <sup>(6)</sup></em>
+  <em>Figura 1. Fotografía de Desmodus rotundus. A.Cuerpo completo; B.Cabeza; C.Pulgar<sup>(6)</sup></em>
 </p>
 
 En Apurímac, un estudio reportó que el índice general de mordeduras por D. rotundus en animales de producción aumentó de 13.87% en 2021 a 15.69% en 2022; en bovinos, dicho índice pasó de 11.11% a 12.05%, mientras que en caprinos ascendió de 27.59% a 39.84% <sup>(7)</sup>. Estos datos muestran que la presión de ataque sobre los animales no es aislada ni marginal, sino persistente y, en algunos casos, creciente. De manera complementaria, investigaciones recientes en Cajamarca identificaron factores de riesgo asociados a la rabia bovina y modeló su potencial expansión hasta el 78,12% de la región, lo que refuerza la necesidad de vigilancia territorial y prevención focalizada <sup>(3, 7)</sup>. 
@@ -100,12 +100,14 @@ El principal riesgo derivado de estas mordeduras no radica únicamente en la pé
   <em>Figura 2. Fotografía de vaca cebú con mordeduras de murciélago vampiro escurriendo sangre <sup>(6)</sup></em>
 </p>
 
+Frente a esta situación, se han planteado soluciones que van desde el uso de mallas en los ganados cerrados hasta el ataque directo a las colonias de estos murciélagos mediante el uso de gases venenosos, insecticidas como el dicloro difenil tricloroetano (DDT), dieldrín y malathion así como explosivos e incendios que provocan daños colaterales a la flora y fauna del lugar afectado <sup>(6)</sup>. A estas intervenciones se le suma el uso de pomadas vampiricidas (anticoagulante en un vehículo como la vaselina), las cuales se les aplica usualmente en los dorsos de los D. rotundus para luego liberarlos y aprovechar su conducta de acicalamiento individual y social a fin de que el veneno sea ingerido por múltiples vampiros (generalmente 15 por murciélago tratado) y provoque su muerte, sin embargo, aquellos que son beneficiosos para el ambiente también terminan siendo víctimas de este método ante la desinformación de diferencia de especies <sup>(6,8)</sup>. 
+
 ---
 
 ### <code> Solución ── .✦🌍 </code> 
-Frente a este escenario, y tras analizar la magnitud de la problemática, se propone el desarrollo de un dispositivo tecnológico innovador diseñado para detectar la presencia de Desmodus rotundus en zonas ganaderas. Este sistema funcionará como una especie de “mini radar” inteligente e integrará una cámara con inteligencia artificial capaz de reconocer al murciélago y diferenciarlo de otras especies animales. Una vez detectada su presencia, el dispositivo activará mecanismos de respuesta, tales como la emisión de sonidos específicos y la proyección de luces de alta intensidad, con el propósito de ahuyentarlo sin ocasionar daño.
+En respuesta a la necesidad de una solución no invasiva, y tras analizar la magnitud de la problemática, se propone el desarrollo de un dispositivo tecnológico innovador diseñado para detectar la presencia de Desmodus rotundus en zonas ganaderas. Este sistema funcionará como un mecanismo de monitoreo y disuación inteligente que integrará un micrófono para captar los sonidos del ambiente y, mediante las señales, diferenciar al murciélago de otros animales. Una vez detectada su presencia, el dispositivo activará la emisión de sonidos específicos y la proyección de luces de alta intensidad con el propósito de ahuyentarlo sin ocasionar daño.
 
-Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sensores como el PIR o un sensor de luz que permitirá su implementación en zonas rurales mediante un bajo consumo energético y una aplicación relativamente accesible. De esta manera, se busca ofrecer una solución eficiente, sostenible y respetuosa con el equilibrio ecológico, capaz de reducir los ataques al ganado sin recurrir a métodos extremos, promoviendo así una convivencia más armónica entre la actividad ganadera y la conservación del ecosistema.
+Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sensores como el PIR o un sensor de luz que permitirá su implementación en zonas rurales mediante un bajo consumo energético y una aplicación relativamente accesible, donde los registros de ataques y alarmas se puedan ver mediante una app de celular. De esta manera, se busca ofrecer una solución eficiente, sostenible y respetuosa con el equilibrio ecológico, capaz de reducir los ataques al ganado sin recurrir a métodos extremos, promoviendo así una convivencia más armónica entre la actividad ganadera y la conservación del ecosistema.
 
 ---
 

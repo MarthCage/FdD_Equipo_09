@@ -175,26 +175,26 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
 
   <tr>
     <th>NÚMERO DE PUBLICACIÓN</th>
-    <td>US2010201525A1</td>
+    <td>US11950589B2</td>
     <th>IMAGEN</th>
   </tr>
 
   <tr>
     <th>RESUMEN</th>
     <td>
-      En un sistema para disuadir la entrada de animales en un espacio o área de vigilancia, uno o más detectores monitorean dicho espacio o área para detectar la presencia de animales intrusos. Cada detector genera una señal que es analizada por un procesador para determinar si hay algún animal intruso en el área bajo vigilancia. Cuando se detecta un animal intruso, el procesador determina su acimut y elevación. Acto seguido, el procesador apunta los dispositivos disuasorios hacia el animal intruso y los activa.
+      Transductor ultrasónico para aplicaciones en turbinas eólicas. El transductor incluye una carcasa con un diafragma central, una pared periférica a su alrededor y una sección flexible que soporta el diafragma con respecto a la pared periférica. El vértice de un cono está fijado al diafragma central de la carcasa y el cono tiene un borde periférico fijado a la pared periférica metálica de la carcasa. Un elemento piezoeléctrico, como un controlador, está fijado al diafragma central de la carcasa, en el lado opuesto al vértice del cono.
     </td>
     <td align="center">
-      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/ac3bfb1c-4f45-46c3-92a2-3b60ac3e8791" />
+      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/592ed174-f85c-487a-b678-0f3471ca2bc7" />
       <br><br>
-      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/6316f544-05dc-4835-9cc4-4e6314259130" />
+      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/e716db7f-57ea-4192-b1c3-afad85ed6ee7" />
     </td>
   </tr>
 
   <tr>
     <th>LINK</th>
     <td colspan="2">
-      <a href="https://worldwide.espacenet.com/patent/search/family/039926679/publication/US2010201525A1?q=US20100201525A1">
+      <a href="https://worldwide.espacenet.com/patent/search/family/077271698/publication/US11950589B2?q=US11950589B2">
         Ver patente
       </a>
     </td>

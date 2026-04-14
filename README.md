@@ -88,7 +88,7 @@ A partir de esta perspectiva, el proyecto se centrará en la interacción entre 
 <p align = "center">
   <img width="402.5" height="414.5" alt="Captura de pantalla 2026-04-13 212824" src="https://github.com/user-attachments/assets/ce62410d-6d09-4d98-b34b-8fe0146e66f5" />
   <br>
-  <em>Figura 1. Fotografía de Desmodus rotundus. A.Cuerpo completo; B.Cabeza; C.Pulgar<sup>(6)</sup></em>
+  <em>Figura 1. Fotografía de Desmodus rotundus. A. Cuerpo completo; B. Cabeza; C.Pulgar<sup>(6)</sup></em>
 </p>
 
 En Apurímac, un estudio reportó que el índice general de mordeduras por D. rotundus en animales de producción aumentó de 13.87% en 2021 a 15.69% en 2022; en bovinos, dicho índice pasó de 11.11% a 12.05%, mientras que en caprinos ascendió de 27.59% a 39.84% <sup>(7)</sup>. Estos datos muestran que la presión de ataque sobre los animales no es aislada ni marginal, sino persistente y, en algunos casos, creciente. De manera complementaria, investigaciones recientes en Cajamarca identificaron factores de riesgo asociados a la rabia bovina y modeló su potencial expansión hasta el 78,12% de la región, lo que refuerza la necesidad de vigilancia territorial y prevención focalizada <sup>(3, 7)</sup>. 
@@ -101,6 +101,12 @@ El principal riesgo derivado de estas mordeduras no radica únicamente en la pé
 </p>
 
 Frente a esta situación, se han planteado soluciones que van desde el uso de mallas en los ganados cerrados hasta el ataque directo a las colonias de estos murciélagos mediante el uso de gases venenosos, insecticidas como el dicloro difenil tricloroetano (DDT), dieldrín y malathion así como explosivos e incendios que provocan daños colaterales a la flora y fauna del lugar afectado <sup>(6)</sup>. A estas intervenciones se le suma el uso de pomadas vampiricidas (anticoagulante en un vehículo como la vaselina), las cuales se les aplica usualmente en los dorsos de los <i>Desmodus rotundus</i> para luego liberarlos y aprovechar su conducta de acicalamiento individual y social a fin de que el veneno sea ingerido por múltiples vampiros (generalmente 15 por murciélago tratado) y provoque su muerte, sin embargo, aquellos que son beneficiosos para el ambiente también terminan siendo víctimas de este método ante la desinformación sobre diferenciación de especies <sup>(6,8)</sup>. 
+
+<p align = "center">
+<img width="627.9" height="267.4" alt="imagen" src="https://github.com/user-attachments/assets/4f660c4c-2abc-4177-b2d3-9e6b55a939d1" />
+<br>
+  <em>Figura 3. Fotografía de aplicación de vampiricida. A. Tarro con vampiricida comercial; B. Aplicación del producto en el lomo de un vampiro capturado <sup>(6)</sup></em>
+</p>
 
 ---
 

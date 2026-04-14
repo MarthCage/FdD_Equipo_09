@@ -82,7 +82,7 @@ A partir de esta perspectiva, el proyecto se centrará en la interacción entre 
 
 ---
 
-### <code> Problemática ── .✦🌍 </code> 
+### <code> Problemática ── .✦‼️ </code> 
 <i>Desmodus rotundus</i>, conocido comúnmente como murciélago vampiro, es una de las tres especies de murciélagos estrictamente hematófagos y es el principal transmisor del virus de la rabia (VAR) hacia el ganado en América Latina <sup>(4)</sup>. Su presencia es alta en espacios donde abundan animales domésticos y de producción, especialmente bovinos, caprinos, equinos y otros mamíferos que le sirven como fuente accesible de alimento. No obstante, el análisis de esta especie no debe conducir a su estigmatización, ya que los murciélagos, como grupo, cumplen funciones ecológicas esenciales en los ecosistemas, entre ellas el control de insectos, la dispersión de semillas y la polinización, por lo que cualquier propuesta de intervención debe considerar criterios de conservación y manejo responsable <sup>(4, 5)</sup>.
 
 <p align = "center">
@@ -100,20 +100,20 @@ El principal riesgo derivado de estas mordeduras no radica únicamente en la pé
   <em>Figura 2. Fotografía de vaca cebú con mordeduras de murciélago vampiro escurriendo sangre <sup>(6)</sup></em>
 </p>
 
-Frente a esta situación, se han planteado soluciones que van desde el uso de mallas en los ganados cerrados hasta el ataque directo a las colonias de estos murciélagos mediante el uso de gases venenosos, insecticidas como el dicloro difenil tricloroetano (DDT), dieldrín y malathion así como explosivos e incendios que provocan daños colaterales a la flora y fauna del lugar afectado <sup>(6)</sup>. A estas intervenciones se le suma el uso de pomadas vampiricidas (anticoagulante en un vehículo como la vaselina), las cuales se les aplica usualmente en los dorsos de los D. rotundus para luego liberarlos y aprovechar su conducta de acicalamiento individual y social a fin de que el veneno sea ingerido por múltiples vampiros (generalmente 15 por murciélago tratado) y provoque su muerte, sin embargo, aquellos que son beneficiosos para el ambiente también terminan siendo víctimas de este método ante la desinformación de diferencia de especies <sup>(6,8)</sup>. 
+Frente a esta situación, se han planteado soluciones que van desde el uso de mallas en los ganados cerrados hasta el ataque directo a las colonias de estos murciélagos mediante el uso de gases venenosos, insecticidas como el dicloro difenil tricloroetano (DDT), dieldrín y malathion así como explosivos e incendios que provocan daños colaterales a la flora y fauna del lugar afectado <sup>(6)</sup>. A estas intervenciones se le suma el uso de pomadas vampiricidas (anticoagulante en un vehículo como la vaselina), las cuales se les aplica usualmente en los dorsos de los <i>Desmodus rotundus</i> para luego liberarlos y aprovechar su conducta de acicalamiento individual y social a fin de que el veneno sea ingerido por múltiples vampiros (generalmente 15 por murciélago tratado) y provoque su muerte, sin embargo, aquellos que son beneficiosos para el ambiente también terminan siendo víctimas de este método ante la desinformación sobre diferenciación de especies <sup>(6,8)</sup>. 
 
 ---
 
-### <code> Solución ── .✦🌍 </code> 
-En respuesta a la necesidad de una solución no invasiva, y tras analizar la magnitud de la problemática, se propone el desarrollo de un dispositivo tecnológico innovador diseñado para detectar la presencia de Desmodus rotundus en zonas ganaderas. Este sistema funcionará como un mecanismo de monitoreo y disuación inteligente que integrará un micrófono para captar los sonidos del ambiente y, mediante las señales, diferenciar al murciélago de otros animales. Una vez detectada su presencia, el dispositivo activará la emisión de sonidos específicos y la proyección de luces de alta intensidad con el propósito de ahuyentarlo sin ocasionar daño.
+### <code> Solución ── .✦🌟 </code> 
+En respuesta a la necesidad de una solución no invasiva, y tras analizar la magnitud de la problemática, se propone el desarrollo de un dispositivo tecnológico innovador diseñado para detectar la presencia de<i>Desmodus rotundus</i> en zonas ganaderas. Este sistema funcionará como un mecanismo de monitoreo y disuación inteligente que integrará un micrófono para captar los sonidos del ambiente y, mediante las señales, diferenciar al murciélago de otros animales. Una vez detectada su presencia, el dispositivo activará la emisión de sonidos específicos y la proyección de luces de alta intensidad con el propósito de ahuyentarlo sin ocasionar daño.
 
 Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sensores como el PIR o un sensor de luz que permitirá su implementación en zonas rurales mediante un bajo consumo energético y una aplicación relativamente accesible, donde los registros de ataques y alarmas se puedan ver mediante una app de celular. De esta manera, se busca ofrecer una solución eficiente, sostenible y respetuosa con el equilibrio ecológico, capaz de reducir los ataques al ganado sin recurrir a métodos extremos, promoviendo así una convivencia más armónica entre la actividad ganadera y la conservación del ecosistema.
 
 ---
 
-### <code> Objetivos ── .✦📸 </code>
+### <code> Objetivos ── .✦✅ </code>
 
-- Diseñar un sistema con tecnología ESP32 para detectar y ahuyentar al Desmodus rotundus en zonas rurales.
+- Diseñar un sistema con tecnología ESP32 para detectar y ahuyentar al <i>Desmodus rotundus</i> en zonas rurales.
 - Implementar un micrófono para obtener sonidos y diferenciar al murciélago de otros animales.
 - Integrar mecanismos de respuesta como luces y sonidos para ahuyentarlo sin dañarlo.
 - Reducir las mordeduras en el ganado y el riesgo de enfermedades como la rabia.
@@ -121,7 +121,7 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
 
 ---
 
-### <code> Patentes encontradas ── .✦📸 </code>
+### <code> Patentes encontradas ── .✦📃 </code>
 <!--- Patente 1 ------------------------------------------------------------------------------------------------->
 <table>
   <tr>

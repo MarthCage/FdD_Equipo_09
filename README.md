@@ -279,6 +279,7 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
   </tr>
 </table>
 
+---
 
 ### <code> Bibliografías ── .✦📚 </code> 
 1. Moran M. ODS15: Bosques, desertificación y diversidad biológica [Internet]. Desarrollo Sostenible. 26 de enero de 2024 [citado el 14 de abril de 2026]. Disponible en: https://www.un.org/sustainabledevelopment/es/biodiversity/

@@ -169,7 +169,7 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
   <tr>
     <th>TÍTULO</th>
     <td colspan="2"><b>
-      MÉTODO Y SISTEMA PARA DETECTAR Y DISUADIR LA INTRODUCCIÓN DE ANIMALES
+      Transductor ultrasónico disuasorio para murciélagos en aplicaciones de turbinas eólicas.
     </b></td>
   </tr>
 
@@ -203,37 +203,37 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
 
 <br><br>
 
-<!--- Patente 2 -------------------------------------------------------------------------------------------------->
+<!--- Patente 3 -------------------------------------------------------------------------------------------------->
 <table>
   <tr>
     <th>TÍTULO</th>
     <td colspan="2"><b>
-       Dispositivo ultrasónico disuasorio para animales para proteger un área
+       Método y dispositivo para evitar la colisión con murciélagos y aves en turbinas eólicas multimodo.
     </b></td>
   </tr>
 
   <tr>
     <th>NÚMERO DE PUBLICACIÓN</th>
-    <td>US6016100A</td>
+    <td>CN121587263A</td>
     <th>IMAGEN</th>
   </tr>
 
   <tr>
     <th>RESUMEN</th>
     <td>
- Sistema disuasorio para animales que impide la entrada de animales a un área específica mediante un tono ultrasónico oscilante. El sistema incluye una carcasa resistente a la intemperie con un detector infrarrojo para detectar la presencia de animales. Para identificar las intrusiones relevantes, se mantiene un conteo del número de detecciones. Una vez que el conteo alcanza un número predeterminado de señales infrarrojas en un tiempo predeterminado, se genera una señal ultrasónica oscilante para ahuyentar al animal y disuadirlo de entrar al área protegida. Un temporizador activa el sistema ultrasónico durante un tiempo predeterminado. La estaca de montaje para desplegar el sistema en ubicaciones exteriores remotas incluye un mecanismo antirrotación para evitar la desalineación por contacto accidental.
+ Esta invención se relaciona con el campo de la tecnología de generación de energía eólica, y más particularmente con un método y dispositivo para repeler murciélagos y aves mediante una turbina eólica multimodo. El dispositivo incluye una carcasa exterior con un compartimento de monitoreo, un compartimento repelente y un compartimento de control formado internamente por particiones. Un radar de precisión milimétrica está montado en la parte superior de la carcasa exterior, y una cámara de doble espectro está montada en la parte frontal de la misma, con el radar y la cámara alineados con la posición del compartimento de monitoreo. El compartimento de monitoreo contiene un primer módulo, un segundo módulo y un módulo de reconocimiento de IA. Un altavoz está montado en la parte frontal de la carcasa exterior, y luces estroboscópicas y focos láser están montados a ambos lados de la misma, alineados con la posición del compartimento repelente. Un transmisor ultrasónico está instalado dentro del compartimento repelente, que también contiene un sistema repelente multimodo. Paneles fotovoltaicos están fijados en ambos extremos de la parte superior de la carcasa exterior. El compartimento de control contiene un módulo de alimentación, un módulo hueco y un módulo de comunicación. Este método permite repeler aves y murciélagos de forma eficaz, precisa e inteligente.
     </td>
     <td align="center">
-      <img width="1893" height="1274" alt="image" src="https://github.com/user-attachments/assets/364805e8-8971-4041-a245-02c372a0ab7b" />
+      <img width="1893" height="1274" alt="image" src="https://github.com/user-attachments/assets/3df901fd-7445-4c92-a531-b6a8ec3b67b8" />
       <br><br>
-      <img width="2320" height="3408" alt="image" src="https://github.com/user-attachments/assets/105ef2d9-3d0a-4d22-9bf6-37d4b55cc2e9" />
+      <img width="2320" height="3408" alt="image" src="https://github.com/user-attachments/assets/afc596a0-5760-43d6-88d0-6f7ec242f966" />
     </td>
   </tr>
 
   <tr>
     <th>LINK</th>
     <td colspan="2">
-      <a href="https://worldwide.espacenet.com/patent/search/family/022338962/publication/US6016100A?q=US6016100A">
+      <a href="https://worldwide.espacenet.com/patent/search/family/098875679/publication/CN121587263A?q=CN121587263A">
         Ver patente
       </a>
     </td>

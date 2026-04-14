@@ -280,8 +280,8 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
 </table>
 
 
-Bibliografías:
-1. Moran M. ODS15: Bosques, desertificación y diversidad biológica [Internet]. Desarrollo Sostenible. 2015 [citado el 14 de abril de 2026]. Disponible en: https://www.un.org/sustainabledevelopment/es/biodiversity/
+### <code> Bibliografías ── .✦📚 </code> 
+1. Moran M. ODS15: Bosques, desertificación y diversidad biológica [Internet]. Desarrollo Sostenible. 26 de enero de 2024 [citado el 14 de abril de 2026]. Disponible en: https://www.un.org/sustainabledevelopment/es/biodiversity/
 2. Rabia [Internet]. Who.int. 5 de junio de 2024 [citado el 14 de abril de 2026]. Disponible en: https://www.who.int/es/news-room/fact-sheets/detail/rabies
 3. Vista de Factores de riesgo asociados a casos de rabia bovina y potencial distribución hacia zonas vulnerables en Cajamarca, Perú [Internet]. Edicionescervantes.com. 2025 [citado el 14 de abril de 2026]. Disponible en: https://www.censa.edicionescervantes.com/index.php/RSA/article/view/1446/2739
 4. Soler-Tovar D, Escobar LE. Rabies transmitted from vampires to cattle: An overview. PLoS One [Internet]. 13 de enero de 2025;20(1):e0317214. Disponible en: http://dx.doi.org/10.1371/journal.pone.0317214

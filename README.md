@@ -13,24 +13,65 @@ Somos el **Equipo 09** del curso **Fundamentos de Diseño 2026-1**, conformado p
 
 ---
 
+### <code> Integrantes del Equipo ── .✦👥 </code>
+
+<table align="center">
+  <tr height="150">
+    <td valign="center" width="200" align="center">
+      <img src="https://github.com/user-attachments/assets/0d72d991-ac0f-4672-80e5-4e305a606c2e" width="150">
+    </td>
+    <td valign="middle">
+      <b>Martha Medina˖.𖥔 ݁ ˖ ⊹ ࣪ ˖</b><br>
+      Líder, documentadora y programadora<br>
+      Gustos: Programación, creatividad
+    </td>
+    <td valign="center" width="200" align="center">
+      <img src="https://github.com/user-attachments/assets/b521614f-2a9f-4021-9bd8-435a6aed632b" width="150">
+    </td>
+    <td valign="middle">
+      <b>Aldair Castillo˖.𖥔 ݁ ˖ ⊹ ࣪ ˖</b><br>
+      Programador, documentador<br>
+      Gustos: Ciencias de la computación, Mecatrónica
+    </td>
+  </tr>
+  <tr height="150">
+    <td valign="center" width="200" align="center">
+      <img src="https://github.com/user-attachments/assets/f7576632-8dba-468a-be6b-6e7f3df45833" width="150">
+    </td>
+    <td valign="middle">
+      <b>Anderson Bruno˖.𖥔 ݁ ˖ ⊹ ࣪ ˖</b><br>
+      Documentador<br>
+      Gustos: Diseño de prototipos, creatividad, análisis
+    </td>
+    <td valign="center" width="200" align="center">
+      <img src="https://github.com/user-attachments/assets/7ba1522d-1ccb-41ff-a852-5ad3a9dc7ce0" width="150">
+    </td>
+    <td valign="middle">
+      <b>Angel Valverde˖.𖥔 ݁ ˖ ⊹ ࣪ ˖</b><br>
+      Evaluador ambiental, documentador<br>
+      Gustos: Comunicador , Asertivo , Colaborativo
+    </td>
+  </tr>
+  <tr height="150">
+    <td valign="center" width="200" align="center">
+      <img src="https://github.com/user-attachments/assets/0de3f2ea-2082-42f7-8232-ba2f1da52a8b" width="150">
+    </td>
+    <td valign="middle">
+      <b>Xiomara Quispe˖.𖥔 ݁ ˖ ⊹ ࣪ ˖</b><br>
+      Documentadora<br>
+      Gustos: Optimización de procesos, análisis de datos
+    </td>
+  </tr>
+</table>
+
+---
+
 ### <code> Fotografía del Equipo ── .✦📸 </code>
 
 <p align="center">
 <img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/d93005d8-de72-4650-95c5-8ddd3dbab04e" />
   <em>Figura 1. Fotografía del equipo 09</em>
 </p>
-
----
-
-### <code> Integrantes del Equipo ── .✦👥 </code>
-
-| Foto | Nombre | Rol | Intereses |
-|:------:|:--------:|:-----:|:-----------:|
-| <img src="https://github.com/user-attachments/assets/0d72d991-ac0f-4672-80e5-4e305a606c2e" width="90"/> | **Martha Medina** | Lider, documentadora, programadora | Programación, creatividad|
-| <img src="https://github.com/user-attachments/assets/b521614f-2a9f-4021-9bd8-435a6aed632b" width="90"/> | **Aldair Castillo** | Programador, documentador | Ciencias de la computación, Mecatrónica |
-| <img src="https://github.com/user-attachments/assets/f7576632-8dba-468a-be6b-6e7f3df45833" width="90"/> | **Anderson Bruno** | Documentador | Diseño de prototipos, creatividad , analisis |
-| <img src="https://github.com/user-attachments/assets/7ba1522d-1ccb-41ff-a852-5ad3a9dc7ce0" width="90"/> | **Angel Valverde** | Evaluador ambiental, documentador | Comunicador , Asertivo , Colaborativo |
-| <img src="https://github.com/user-attachments/assets/0de3f2ea-2082-42f7-8232-ba2f1da52a8b" width="90"/> | **Xiomara Quispe** | Documentadora | Optimización de procesos, análisis de datos |
 
 ---
 
@@ -79,13 +120,156 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
 ---
 
 ### <code> Patentes encontradas ── .✦📸 </code>
-<img width="782" height="747" alt="image" src="https://github.com/user-attachments/assets/7f9355b9-61c0-4d72-9fcb-f850609a24e1" />
-<img width="792" height="677" alt="image" src="https://github.com/user-attachments/assets/07cf6005-1869-4ef6-8d57-74448ad1f535" />
-<img width="766" height="792" alt="image" src="https://github.com/user-attachments/assets/8b48b5ba-42a2-4cdb-8c24-587b6b134505" />
-<img width="786" height="641" alt="image" src="https://github.com/user-attachments/assets/f30c707e-e1f9-488e-8648-032df7bd4ce5" />
+<!--- Patente 1 ------------------------------------------------------------------------------------------------->
+<table>
+  <tr>
+    <th>TÍTULO</th>
+    <td colspan="2"><b>Sistema automático de detección y disuasión de animales</b></td>
+  </tr>
 
+  <tr>
+    <th>NÚMERO DE PUBLICACIÓN</th>
+    <td>US11793190B1</td>
+    <th>IMAGEN</th>
+  </tr>
 
+  <tr>
+    <th>RESUMEN</th>
+    <td>
+      Esta divulgación proporciona un método para detectar y disuadir a un animal objetivo de un área determinada. El área objetivo se ubica dentro del campo de visión de una cámara de video conectada a un sistema de procesamiento informático. Un programa informático de identificación animal, que utiliza redes neuronales convolucionales, programas de aprendizaje profundo e imágenes de la cámara, detecta rápidamente al animal objetivo. El programa de identificación animal está entrenado para identificar con precisión a los animales objetivo mediante un algoritmo de aprendizaje y tecnología de aprendizaje automático relacionada. El tiempo de despliegue del dispositivo disuasorio contra el animal objetivo desde el instante de la detección es de 2 segundos o menos, de modo que el animal tiene poco o ningún tiempo para dañar el área objetivo.
+    </td>
+    <td align="center">
+      <img width="1505" height="861" alt="image" src="https://github.com/user-attachments/assets/24f38bc1-0f3d-4969-81dd-855211b1973f" /><br><br>
+      <img width="2550" height="3300" alt="image" src="https://github.com/user-attachments/assets/68989fca-ac6d-4243-ac0f-bd12e5f0b307" />
+    </td>
+  </tr>
 
+  <tr>
+    <th>LINK</th>
+    <td colspan="2">
+      <a href="https://worldwide.espacenet.com/patent/search/family/072749447/publication/US11793190B1?q=US11793190B1">
+        Ver patente
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!--- Patente 2 -------------------------------------------------------------------------------------------------->
+<table>
+  <tr>
+    <th>TÍTULO</th>
+    <td colspan="2"><b>
+      MÉTODO Y SISTEMA PARA DETECTAR Y DISUADIR LA INTRODUCCIÓN DE ANIMALES
+    </b></td>
+  </tr>
+
+  <tr>
+    <th>NÚMERO DE PUBLICACIÓN</th>
+    <td>US2010201525A1</td>
+    <th>IMAGEN</th>
+  </tr>
+
+  <tr>
+    <th>RESUMEN</th>
+    <td>
+      En un sistema para disuadir la entrada de animales en un espacio o área de vigilancia, uno o más detectores monitorean dicho espacio o área para detectar la presencia de animales intrusos. Cada detector genera una señal que es analizada por un procesador para determinar si hay algún animal intruso en el área bajo vigilancia. Cuando se detecta un animal intruso, el procesador determina su acimut y elevación. Acto seguido, el procesador apunta los dispositivos disuasorios hacia el animal intruso y los activa.
+    </td>
+    <td align="center">
+      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/ac3bfb1c-4f45-46c3-92a2-3b60ac3e8791" />
+      <br><br>
+      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/6316f544-05dc-4835-9cc4-4e6314259130" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>LINK</th>
+    <td colspan="2">
+      <a href="https://worldwide.espacenet.com/patent/search/family/039926679/publication/US2010201525A1?q=US20100201525A1">
+        Ver patente
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!--- Patente 2 -------------------------------------------------------------------------------------------------->
+<table>
+  <tr>
+    <th>TÍTULO</th>
+    <td colspan="2"><b>
+       Dispositivo ultrasónico disuasorio para animales para proteger un área
+    </b></td>
+  </tr>
+
+  <tr>
+    <th>NÚMERO DE PUBLICACIÓN</th>
+    <td>US6016100A</td>
+    <th>IMAGEN</th>
+  </tr>
+
+  <tr>
+    <th>RESUMEN</th>
+    <td>
+ Sistema disuasorio para animales que impide la entrada de animales a un área específica mediante un tono ultrasónico oscilante. El sistema incluye una carcasa resistente a la intemperie con un detector infrarrojo para detectar la presencia de animales. Para identificar las intrusiones relevantes, se mantiene un conteo del número de detecciones. Una vez que el conteo alcanza un número predeterminado de señales infrarrojas en un tiempo predeterminado, se genera una señal ultrasónica oscilante para ahuyentar al animal y disuadirlo de entrar al área protegida. Un temporizador activa el sistema ultrasónico durante un tiempo predeterminado. La estaca de montaje para desplegar el sistema en ubicaciones exteriores remotas incluye un mecanismo antirrotación para evitar la desalineación por contacto accidental.
+    </td>
+    <td align="center">
+      <img width="1893" height="1274" alt="image" src="https://github.com/user-attachments/assets/364805e8-8971-4041-a245-02c372a0ab7b" />
+      <br><br>
+      <img width="2320" height="3408" alt="image" src="https://github.com/user-attachments/assets/105ef2d9-3d0a-4d22-9bf6-37d4b55cc2e9" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>LINK</th>
+    <td colspan="2">
+      <a href="https://worldwide.espacenet.com/patent/search/family/022338962/publication/US6016100A?q=US6016100A">
+        Ver patente
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!--- Patente 4 -------------------------------------------------------------------------------------------------->
+<table>
+  <tr>
+    <th>TÍTULO</th>
+    <td colspan="2"><b>
+        SISTEMA Y MÉTODOS PARA LA DETECCIÓN, MONITOREO Y CONTROL AUTOMATIZADOS DE FAUNA SILVESTRE
+    </b></td>
+  </tr>
+
+  <tr>
+    <th>NÚMERO DE PUBLICACIÓN</th>
+    <td>US2021137097A1</td>
+    <th>IMAGEN</th>
+  </tr>
+
+  <tr>
+    <th>RESUMEN</th>
+    <td>
+ La presente invención describe un sistema capaz de detectar y reconocer fauna silvestre, en particular aves, mediante imágenes de cámara. Esta solución se compone de algoritmos, software y dispositivos de hardware integrados. Con el equipamiento adecuado, el sistema puede ser portátil y puede instalarse en cualquier lugar para diversas funciones de detección y control de fauna silvestre.
+    </td>
+    <td align="center">
+      <img width="2550" height="3300" alt="image" src="https://github.com/user-attachments/assets/dbe00c89-f68d-4016-92cf-0df4feb97590" />
+      <br><br>
+      <img width="2550" height="3300" alt="image" src="https://github.com/user-attachments/assets/5a367568-a4bd-451c-aab0-ee96d5b1a390" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>LINK</th>
+    <td colspan="2">
+      <a href="https://worldwide.espacenet.com/patent/search/family/072896020/publication/US2021137097A1?q=US20210137097A1">
+        Ver patente
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 Bibliografías:

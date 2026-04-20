@@ -76,7 +76,7 @@ Somos el **Equipo 09** del curso **Fundamentos de Diseño 2026-1**, conformado p
 ---
 
 ### <code> ODS elegida ── .✦🌍 </code> 
-En este presente proyecto de innovación, se ha decidido abordar una problemática vinculada al Objetivo de Desarrollo Sostenible 15 (ODS15): Vida y ecosistema terrestre, propuesto en la Agenda 2030. Este objetivo comprende un conjunto amplio de metas interrelacionadas que evidencian un enfoque integral orientado a la conservación de los ecosistemas terrestres y de la biodiversidad, buscando soluciones que permitan reducir los conflictos entre la actividad humana y la fauna silvestre sin alterar el equilibrio ecológico <sup>(1)</sup>.
+En este presente proyecto de innovación, se ha decidido abordar una problemática vinculada al Objetivo de Desarrollo Sostenible 15 (ODS15): Vida y ecosistema terrestre, propuesto en la Agenda 2030. Este objetivo comprende un conjunto amplio de metas interrelacionadas que evidencian un enfoque integral orientado a la conservación de los ecosistemas terrestres y de la biodiversidad, buscando soluciones que permitan reducir los conflictos entre la actividad humana y la fauna silvestre sin alterar el equilibrio ecológico (1)
 
 A partir de esta perspectiva, el proyecto se centrará en la interacción entre la ganadería y el murciélago hematófago <i>Desmodus rotundus</i>, una especie que, aunque forma parte de la biodiversidad neotropical, también representa un riesgo sanitario y productivo en zonas rurales donde existe actividad pecuaria.
 

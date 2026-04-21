@@ -94,14 +94,14 @@ A partir de esta perspectiva, el proyecto se centrará en la interacción entre 
 En Apurímac, un estudio reportó que el índice general de mordeduras por <i>D. rotundus</i> en animales de producción aumentó de 13.87% en 2021 a 15.69% en 2022; en bovinos, dicho índice pasó de 11.11% a 12.05%, mientras que en caprinos ascendió de 27.59% a 39.84% (7). Estos datos muestran que la presión de ataque sobre los animales no es aislada ni marginal, sino persistente y, en algunos casos, creciente. De manera complementaria, investigaciones recientes en Cajamarca identificaron factores de riesgo asociados a la rabia bovina y modeló su potencial expansión hasta el 78,12% de la región, lo que refuerza la necesidad de vigilancia territorial y prevención focalizada (3, 7). 
 El principal riesgo derivado de estas mordeduras no radica únicamente en la pérdida de sangre o en el debilitamiento progresivo del animal, sino en la posibilidad de transmisión de la rabia silvestre, una enfermedad viral que afecta el sistema nervioso central y que es prácticamente mortal una vez que aparecen los síntomas clínicos (2). 
 
-Desde lo económico, la rabia transmitida por <i>Desmodus rotundus</i> genera pérdidas por mortalidad directa, reducción en la producción de carne y leche, así como por los costos de vacunación y control. A nivel regional, la literatura reporta un promedio de 450 brotes anuales de rabia bovina transmitida por vampiros en América Latina entre 1970 y 2023, ubicando a Brasil, Colombia, Perú y México entre los países más afectados (4). En propiedades ganaderas, las pérdidas anuales pueden alcanzar al menos USD 5,000 por predio, mientras que el gasto en vacunación puede oscilar entre USD 2 y USD 1,437, con un promedio anual de USD 148 por propiedad, lo que demuestra que incluso la prevención representa una carga económica sostenida (4). Es importante precisar que el término “predio” hace referencia a una unidad productiva agropecuaria, cuyo tamaño no es fijo, ya que puede variar dependiendo de la extensión del terreno y la cantidad de ganado presente. En el caso peruano, el Censo Nacional Agropecuario 2012 estimó la existencia de 2,260,973 unidades agropecuarias (11), lo que permite dimensionar el alcance potencial del problema. A ello se suman evidencias recientes que confirman la vigencia de la rabia silvestre hasta 2023, así como su impacto económico y sanitario continuo sobre el sector ganadero y las comunidades rurales.
+Desde lo económico, la rabia transmitida por <i>Desmodus rotundus</i> genera pérdidas por mortalidad directa, reducción en la producción de carne y leche, así como por los costos de vacunación y control. A nivel regional, la literatura reporta un promedio de 450 brotes anuales de rabia bovina transmitida por vampiros en América Latina entre 1970 y 2023, ubicando a Brasil, Colombia, Perú y México entre los países más afectados (4). En propiedades ganaderas, las pérdidas anuales pueden alcanzar al menos USD 5,000 por predio, mientras que el gasto en vacunación puede oscilar entre USD 2 y USD 1,437, con un promedio anual de USD 148 por propiedad, lo que demuestra que incluso la prevención representa una carga económica sostenida (4). Es importante precisar que el término “predio” hace referencia a una unidad productiva agropecuaria, cuyo tamaño no es fijo, ya que puede variar dependiendo de la extensión del terreno y la cantidad de ganado presente. En el caso peruano, el Censo Nacional Agropecuario 2012 estimó la existencia de 2,260,973 unidades agropecuarias, de los cuales el 68% se encuentra en la Sierra (10), lo que permite dimensionar el alcance potencial del problema. A ello se suman evidencias recientes que confirman la vigencia de la rabia silvestre hasta 2023, así como su impacto económico y sanitario continuo sobre el sector ganadero y las comunidades rurales.
 <p align = "center">
   <img width="640.8" height="498.4" alt="image" src="https://github.com/user-attachments/assets/9d1929b5-6417-4001-8f9a-99deb1854f30" />
   <br>
   <em>Figura 2. Fotografía de vaca cebú con mordeduras de murciélago vampiro escurriendo sangre (6)</em>
 </p>
 
-Frente a esta situación, se han planteado soluciones que van desde el uso de mallas en los ganados cerrados hasta el ataque directo a las colonias de estos murciélagos mediante el uso de gases venenosos, insecticidas como el dicloro difenil tricloroetano (DDT), dieldrín y malathion así como explosivos e incendios que provocan daños colaterales a la flora y fauna del lugar afectado (6). A estas intervenciones se le suma el uso de pomadas vampiricidas (anticoagulante en un vehículo como la vaselina), las cuales se les aplica usualmente en los dorsos de los <i>Desmodus rotundus</i> para luego liberarlos y aprovechar su conducta de acicalamiento individual y social a fin de que el veneno sea ingerido por múltiples vampiros (generalmente 15 por murciélago tratado) y provoque su muerte, sin embargo, aquellos que son beneficiosos para el ambiente también terminan siendo víctimas de este método ante la desinformación sobre diferenciación de especies (6,8). Si bien el uso de anticoagulantes ha demostrado alta eficacia para inducir la mortalidad en individuos de Desmodus rotundus, la evidencia científica actual no confirma su efectividad para reducir la transmisión del virus de la rabia a nivel poblacional. Por el contrario, diversos estudios sugieren que la perturbación de las colonias puede incrementar la dispersión del virus, lo que limita la eficacia de esta estrategia como medida de control sanitario (10)
+Frente a esta situación, se han planteado soluciones que van desde el uso de mallas en los ganados cerrados hasta el ataque directo a las colonias de estos murciélagos mediante el uso de gases venenosos, insecticidas como el dicloro difenil tricloroetano (DDT), dieldrín y malathion así como explosivos e incendios que provocan daños colaterales a la flora y fauna del lugar afectado (6). A estas intervenciones se le suma el uso de pomadas vampiricidas (anticoagulante en un vehículo como la vaselina), las cuales se les aplica usualmente en los dorsos de los <i>Desmodus rotundus</i> para luego liberarlos y aprovechar su conducta de acicalamiento individual y social a fin de que el veneno sea ingerido por múltiples vampiros (generalmente 15 por murciélago tratado) y provoque su muerte, sin embargo, aquellos que son beneficiosos para el ambiente también terminan siendo víctimas de este método ante la desinformación sobre diferenciación de especies (6,8). Si bien el uso de anticoagulantes ha demostrado alta eficacia para inducir la mortalidad en individuos de Desmodus rotundus, la evidencia científica actual no confirma su efectividad para reducir la transmisión del virus de la rabia a nivel poblacional. Por el contrario, diversos estudios sugieren que la perturbación de las colonias puede incrementar la dispersión del virus, lo que limita la eficacia de esta estrategia como medida de control sanitario (9)
 
 <p align = "center">
 <img width="627.9" height="267.4" alt="imagen" src="https://github.com/user-attachments/assets/4f660c4c-2abc-4177-b2d3-9e6b55a939d1" />
@@ -248,6 +248,45 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
   <tr>
     <th>TÍTULO</th>
     <td colspan="2"><b>
+        Método para escuchar sonidos ultrasónicos de animales
+    </b></td>
+  </tr>
+
+  <tr>
+    <th>NÚMERO DE PUBLICACIÓN</th>
+    <td>US8599647B2</td>
+    <th>IMAGEN</th>
+  </tr>
+
+  <tr>
+    <th>RESUMEN</th>
+    <td>
+ Un método para escuchar señales de sonido ultrasónico de animales comprende: obtener una pluralidad de muestras de entrada a una tasa de muestreo de entrada, incluyendo la pluralidad de muestras de entrada al menos una secuencia de muestras correspondiente a una instancia de una señal de sonido animal que ocurre intermitentemente; recibir un cuadro que incluye al menos dos de la pluralidad de muestras de entrada; seleccionar una fracción de las muestras como muestras de salida, incluyendo la fracción de las muestras una muestra que contiene la al menos una secuencia de muestras correspondiente a una instancia de una señal de sonido animal que ocurre intermitentemente; y transmitir las muestras de salida a una tasa de muestreo de salida más lenta que la tasa de muestreo de entrada.
+    </td>
+    <td align="center">
+      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/8b21180b-fcbb-41b3-9fc9-d9e308672b0a" />
+      <br><br>
+      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/e0acdbc9-c0de-4103-8055-24835ba83c30" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>LINK</th>
+    <td colspan="2">
+      <a href="https://worldwide.espacenet.com/patent/search/family/044147163/publication/US8599647B2?q=US8599647B2">
+        Ver patente
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!--- Patente 5 -------------------------------------------------------------------------------------------------->
+<table>
+  <tr>
+    <th>TÍTULO</th>
+    <td colspan="2"><b>
         SISTEMA Y MÉTODOS PARA LA DETECCIÓN, MONITOREO Y CONTROL AUTOMATIZADOS DE FAUNA SILVESTRE
     </b></td>
   </tr>
@@ -290,10 +329,9 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
 5. Ramírez-Fráncel LA, García-Herrera LV, Losada-Prado S, Reinoso-Flórez G, Sánchez-Hernández A, Estrada-Villegas S, et al. Bats and their vital ecosystem services: a global review. Integr Zool [Internet]. 08 de junio de 2021;17(1):2–23. Disponible en: http://dx.doi.org/10.1111/1749-4877.12552
 6. Aguilar-Setién A, Olave-Leyva JI, Hurtado-Mendoza E, Acuña-Ruiz M, Aréchiga-Ceballos N. Crónica sobre los métodos de control del murciélago vampiro común (Desmodus rotundus). 2026 [citado el 14 de abril de 2026]; Disponible en: https://www.researchgate.net/profile/Alvaro-Aguilar-Setien-2/publication/400312392_CRONICA_SOBRE_LOS_METODOS_DE_CONTROL_DEL_VAMPIRO_COMUN_Desmodus_rotundus/links/698273c8ca66ef6ab98ff2a2/CRONICA-SOBRE-LOS-METODOS-DE-CONTROL-DEL-VAMPIRO-COMUN-Desmodus-rotundus.pdf
 7. Cayllahua AC. Análisis de la dinámica poblacional del murciélago hematófago (Desmodus rotundus) e impacto en animales de producción en el Departamento de Apurímac, periodo 2021-2022 [Internet]. Edu.pe. 2025 [citado el 14 de abril de 2026]. Disponible en: https://repositorio.unamba.edu.pe/server/api/core/bitstreams/366ac8ea-2a93-427d-9026-0f8805b31209/content
-8. Viana M, Benavides JA, Broos A, Ibañez Loayza D, Niño R, Bone J, et al. Effects of culling vampire bats on the spatial spread and spillover of rabies virus. Sci Adv [Internet]. 2023;9(10):eadd7437. Disponible en: http://dx.doi.org/10.1126/sciadv.add7437
-9. Van de Vuurst P, Díaz MM, Rodríguez-San Pedro A, Allendes JL, Brown N, Gutiérrez JD, et al. A database of common vampire bat reports. Sci Data [Internet]. 2022 [citado el 21 de abril de 2026];9(1):57. Disponible en: https://www.nature.com/articles/s41597-022-01140-9  
-10. Ávila-Vargas L, Soler-Tovar D, Dong Q, Escobar LE. Anticoagulants for the Control of the Common Vampire Bat (Desmodus rotundus). Zoonoses Public Health [Internet]. 2025;72(2):101–16. Disponible en: http://dx.doi.org/10.1111/zph.13196  
-11. Consultar información de los censos realizados por el INEI [Internet]. Gob.pe. [citado el 21 de abril de 2026]. Disponible en: https://www.gob.pe/36487-consultar-informacion-de-los-censos-realizados-por-el-inei-censos-nacionales-agropecuario 
+8. Viana M, Benavides JA, Broos A, Ibañez Loayza D, Niño R, Bone J, et al. Effects of culling vampire bats on the spatial spread and spillover of rabies virus. Sci Adv [Internet]. 2023;9(10):eadd7437. Disponible en: http://dx.doi.org/10.1126/sciadv.add7437 
+9. Ávila-Vargas L, Soler-Tovar D, Dong Q, Escobar LE. Anticoagulants for the Control of the Common Vampire Bat (Desmodus rotundus). Zoonoses Public Health [Internet]. 2025;72(2):101–16. Disponible en: http://dx.doi.org/10.1111/zph.13196  
+10. Consultar información de los censos realizados por el INEI [Internet]. Gob.pe. [citado el 21 de abril de 2026]. Disponible en: https://www.gob.pe/36487-consultar-informacion-de-los-censos-realizados-por-el-inei-censos-nacionales-agropecuario 
 
 ## 📌 Resumen Final  
 > El proyecto aborda el impacto del murciélago Desmodus rotundus en la ganadería, ya que sus mordeduras afectan al ganado y pueden transmitir rabia, generando pérdidas económicas y riesgos para la salud. Como solución, se propone un dispositivo con inteligencia artificial que detecte y ahuyente a estos murciélagos mediante luces y sonidos, sin dañarlos, promoviendo así una solución sostenible y equilibrada con el ecosistema.

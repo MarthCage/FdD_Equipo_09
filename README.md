@@ -97,7 +97,7 @@ El principal riesgo derivado de estas mordeduras no radica únicamente en la pé
 <p align = "center">
   <img width="640.8" height="498.4" alt="image" src="https://github.com/user-attachments/assets/9d1929b5-6417-4001-8f9a-99deb1854f30" />
   <br>
-  <em>Figura 2. Fotografía de vaca cebú con mordeduras de murciélago vampiro escurriendo sangre (6)</em>
+  <em>Figura 2. Fotografía de vaca cebú con mordeduras de murciélago vampiro escurriendo sangre (6)
 </p>
 
 Frente a esta situación, se han planteado soluciones que van desde el uso de mallas en los ganados cerrados hasta el ataque directo a las colonias de estos murciélagos mediante el uso de gases venenosos, insecticidas como el dicloro difenil tricloroetano (DDT), dieldrín y malathion así como explosivos e incendios que provocan daños colaterales a la flora y fauna del lugar afectado (6). A estas intervenciones se le suma el uso de pomadas vampiricidas (anticoagulante en un vehículo como la vaselina), las cuales se les aplica usualmente en los dorsos de los <i>Desmodus rotundus</i> para luego liberarlos y aprovechar su conducta de acicalamiento individual y social a fin de que el veneno sea ingerido por múltiples vampiros (generalmente 15 por murciélago tratado) y provoque su muerte, sin embargo, aquellos que son beneficiosos para el ambiente también terminan siendo víctimas de este método ante la desinformación sobre diferenciación de especies (6,8). 

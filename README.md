@@ -105,7 +105,7 @@ En este contexto, el Perú no es ajeno a esta problemática. Datos de plataforma
 </em>
 </p>
 
-La importancia de esta problemática radica en sus consecuencias directas sobre el clima. La deforestación contribuye de manera significativa a las emisiones de gases de efecto invernadero, ya que los bosques almacenan grandes cantidades de carbono. Cuando estos son talados o quemados, ese carbono se libera en forma de CO₂, intensificando el calentamiento global [4]. A nivel global, la pérdida de bosques tropicales está directamente relacionada con el incremento de la temperatura del planeta y eventos climáticos extremos.
+La importancia de esta problemática radica en sus consecuencias directas sobre el clima. La deforestación contribuye de manera significativa a las emisiones de gases de efecto invernadero, ya que los bosques almacenan grandes cantidades de carbono. Cuando estos son talados o quemados, ese carbono se libera en forma de CO₂, intensificando el calentamiento global (4). A nivel global, la pérdida de bosques tropicales está directamente relacionada con el incremento de la temperatura del planeta y eventos climáticos extremos.
 Además, la Amazonía peruana alberga una enorme diversidad biológica, considerada una de las más altas del mundo. Sin embargo, la pérdida de hábitats está provocando la disminución de especies y alteraciones en los ecosistemas. La destrucción de estos ambientes también incrementa el riesgo de enfermedades zoonóticas, ya que el contacto entre humanos y animales silvestres se vuelve más frecuente (1)(4).
 A nivel nacional, el problema se agrava por la ilegalidad. En el Perú, se han detectado más de 24 mil metros cúbicos de madera de origen ilegal, así como cargamentos valorizados en millones de soles,lo que evidencia la magnitud económica y ambiental de esta actividad. Un caso representativo es el ocurrido en Ucayali, donde se intervino madera ilegal valorizada en más de seis millones de soles, reflejando la alta rentabilidad de esta práctica y su impacto directo en la deforestación del país  (6)(7). Esto demuestra que la deforestación no solo es un problema ecológico, sino también social y económico.
 
@@ -113,7 +113,7 @@ A nivel nacional, el problema se agrava por la ilegalidad. En el Perú, se han d
 <p align = "center">
 <img width="627.9" height="267.4" alt="imagen" src="https://github.com/user-attachments/assets/6db46f22-903c-47ca-a43d-522431a6e2e9" />
 <br>
-  <em>magen 3. Intervención de madera ilegal valorizada en más de seis millones de soles en Ucayali. Fuente: Ministerio del Interior del Perú. Ucayali: intervienen madera valorizada en más de seis millones de soles, 2023. (8)</em>
+  <em>magen 3. Intervención de madera ilegal valorizada en más de seis millones de soles en Ucayali. Fuente: Ministerio del Interior del Perú. Ucayali: intervienen madera valorizada en más de seis millones de soles, 2023. (6)</em>
 </p>
 
 Asimismo, el modelo de desarrollo basado en la explotación de recursos ha generado una presión constante sobre los bosques amazónicos. En muchos casos, el crecimiento económico ha sido priorizado sobre la sostenibilidad, lo que ha llevado a la degradación progresiva de los ecosistemas y la pérdida de servicios ambientales esenciales como la regulación del clima y el ciclo del agua (5).
@@ -122,18 +122,18 @@ Desde una perspectiva científica, la deforestación altera procesos fundamental
 ---
 
 ### <code> Solución ── .✦🌟 </code> 
-En respuesta a la necesidad de una solución no invasiva, y tras analizar la magnitud de la problemática, se propone el desarrollo de un dispositivo tecnológico innovador diseñado para detectar la presencia de<i>Desmodus rotundus</i> en zonas ganaderas. Este sistema funcionará como un mecanismo de monitoreo y disuación inteligente que integrará un micrófono para captar los sonidos del ambiente y, mediante las señales, diferenciar al murciélago de otros animales. Una vez detectada su presencia, el dispositivo activará la emisión de sonidos específicos y la proyección de luces de alta intensidad con el propósito de ahuyentarlo sin ocasionar daño.
+En respuesta a la necesidad de una solución no invasiva, y tras analizar la magnitud de la problemática, se propone el desarrollo de un dispositivo tecnológico innovador diseñado para detectar una posible tala ilegal en zonas vulnerables del Amazonas. Este sistema funcionará como un mecanismo de monitoreo inteligente que integrará un micrófono MAX9814 para captar los sonidos del ambiente y, mediante las señales, diferenciar motosierras, voces o maquinaria.
 
-Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sensores como el PIR o un sensor de luz que permitirá su implementación en zonas rurales mediante un bajo consumo energético y una aplicación relativamente accesible, donde los registros de ataques y alarmas se puedan ver mediante una app de celular. De esta manera, se busca ofrecer una solución eficiente, sostenible y respetuosa con el equilibrio ecológico, capaz de reducir los ataques al ganado sin recurrir a métodos extremos, promoviendo así una convivencia más armónica entre la actividad ganadera y la conservación del ecosistema.
+Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sensores como el mmWare 24Ghz y el MPU6050 mediante un bajo consumo energético y una aplicación relativamente accesible, donde la confirmación de sonidos, ubicación y presencia se puedan ver mediante una app de celular. De esta manera, se busca ofrecer una solución eficiente, sostenible y respetuosa con el equilibrio ecológico, capaz de reducir los ataques al ganado sin recurrir a métodos extremos, promoviendo así una convivencia más armónica entre la actividad ganadera y la conservación del ecosistema.
 
 ---
 
 ### <code> Objetivos ── .✦✅ </code>
 
-- Diseñar un sistema con tecnología ESP32 para detectar y ahuyentar al <i>Desmodus rotundus</i> en zonas rurales.
-- Implementar un micrófono para obtener sonidos y diferenciar al murciélago de otros animales.
-- Integrar mecanismos de respuesta como luces y sonidos para ahuyentarlo sin dañarlo.
-- Reducir las mordeduras en el ganado y el riesgo de enfermedades como la rabia.
+- Diseñar un sistema con tecnología ESP32 para detectar y reportar una tala ilegal.
+- Implementar un micrófono para obtener sonidos y diferenciar motosierras y voces humanas del ambiente.
+- Integrar un detector cercano de personas para asegurar la posible acción.
+- Reducir las talas ilegales.
 - Contribuir al ODS 15 promoviendo el equilibrio entre ganadería y ecosistema.
 
 ---
@@ -306,10 +306,10 @@ BIBLIOGRAFÍAS:
 4. Nunez C. Why deforestation matters—and what we can do to stop it [Internet]. National Geographic; 2025 [citado 19 de abril de 2026]. Disponible en: https://www.nationalgeographic.com/environment/article/deforestation
 5. Quispe Alí KE. Deforestación en la Amazonía: el costo ambiental de un desarrollo sin control [Internet]. Lima: Pontificia Universidad Católica del Perú, Clima de Cambios; 2025 [citado 19 de abril de 2026]. Disponible en: https://www.pucp.edu.pe/climadecambios/noticias/deforestacion-en-la-amazonia-el-costo-ambiental-de-un-desarrollo-sin-control/ 
 6. Organismo de Supervisión de los Recursos Forestales y de Fauna Silvestre. OSINFOR identificó más de 24 mil metros cúbicos de madera de origen ilegal mediante inteligencia artificial en el monitoreo satelital [Internet]. Lima: OSINFOR; 2025 [citado 19 de abril de 2026]. Disponible en: https://www.gob.pe/institucion/osinfor/noticias/1191654-osinfor-identifico-mas-de-24-mil-metros-cubicos-de-madera-de-origen-ilegal-mediante-inteligencia-artificial-en-el-monitoreo-satelital  
-7. Ministerio del Interior. Ucayali: Intervienen madera valorizada en más de seis millones de soles [Internet]. Lima: Ministerio del Interior; 2023 [citado 19 de abril de 2026]. Disponible en: https://www.gob.pe/institucion/mininter/noticias/828157-ucayali-intervienen-madera-valorizada-en-mas-de-seis-millones-de-soles 
-8.. La Barreda Noa SD. Deforestación en la región amazónica del Perú: situación y perspectivas. M+Rev Electrón Medioambiente [Internet]. 2021 [citado el 27 de abril de 2026];22(2):20–39. Disponible en: https://dialnet.unirioja.es/servlet/articulo?codigo=8488495 
+7. Ministerio del Interior. Ucayali: Intervienen madera valorizada en más de seis millones de soles [Internet]. Lima: Ministerio del Interior; 2023 [citado 19 de abril de 2026]. Disponible en: https://www.gob.pe/institucion/mininter/noticias/828157-ucayali-intervienen-madera-valorizada-en-mas-de-seis-millones-de-soles
+8. La Barreda Noa SD. Deforestación en la región amazónica del Perú: situación y perspectivas. M+Rev Electrón Medioambiente [Internet]. 2021 [citado el 27 de abril de 2026];22(2):20–39. Disponible en: https://dialnet.unirioja.es/servlet/articulo?codigo=8488495 
 
 
 ## 📌 Resumen Final  
-> El proyecto aborda el impacto del murciélago Desmodus rotundus en la ganadería, ya que sus mordeduras afectan al ganado y pueden transmitir rabia, generando pérdidas económicas y riesgos para la salud. Como solución, se propone un dispositivo con inteligencia artificial que detecte y ahuyente a estos murciélagos mediante luces y sonidos, sin dañarlos, promoviendo así una solución sostenible y equilibrada con el ecosistema.
+> El proyecto aborda el impacto la tala ilegal en el Amazonas, ya que la pérdida de bosques implica un peligro para el ambiente. Como solución, se propone un dispositivo con inteligencia artificial que detecte y alarme una posible actividad de este tipo y sin dañar los alrededores, promoviendo así una solución sostenible y equilibrada con el ecosistema.
 

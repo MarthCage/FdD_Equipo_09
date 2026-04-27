@@ -76,38 +76,48 @@ Somos el **Equipo 09** del curso **Fundamentos de Diseño 2026-1**, conformado p
 ---
 
 ### <code> ODS elegida ── .✦🌍 </code> 
-En este presente proyecto de innovación, se ha decidido abordar una problemática vinculada al Objetivo de Desarrollo Sostenible 15 (ODS15): Vida y ecosistema terrestre, propuesto en la Agenda 2030. Este objetivo comprende un conjunto amplio de metas interrelacionadas que evidencian un enfoque integral orientado a la conservación de los ecosistemas terrestres y de la biodiversidad, buscando soluciones que permitan reducir los conflictos entre la actividad humana y la fauna silvestre sin alterar el equilibrio ecológico (1)
+En este presente proyecto de innovación, se ha decidido abordar una problemática vinculada al Objetivo de Desarrollo Sostenible 15 (ODS15): Vida y ecosistema terrestre, propuesto en la Agenda 2030. Este objetivo comprende un conjunto amplio de metas interrelacionadas que evidencian un enfoque integral orientado a la conservación de los ecosistemas terrestres y de la biodiversidad, buscando soluciones que permitan reducir los conflictos entre la actividad humana y la fauna silvestre sin alterar el equilibrio ecológico (1).
 
-A partir de esta perspectiva, el proyecto se centrará en la interacción entre la ganadería y el murciélago hematófago <i>Desmodus rotundus</i>, una especie que, aunque forma parte de la biodiversidad neotropical, también representa un riesgo sanitario y productivo en zonas rurales donde existe actividad pecuaria.
+A partir de esta perspectiva, nuestro proyecto se centrará en la prevención de la pérdida de bosques por tala ilegal e incendios.
+
 
 ---
 
 ### <code> Problemática ── .✦‼️ </code> 
-<i>Desmodus rotundus</i>, conocido comúnmente como murciélago vampiro, es una de las tres especies de murciélagos estrictamente hematófagos y es el principal transmisor del virus de la rabia (VAR) hacia el ganado en América Latina (4). Su presencia es alta en espacios donde abundan animales domésticos y de producción, especialmente bovinos, caprinos, equinos y otros mamíferos que le sirven como fuente accesible de alimento. No obstante, el análisis de esta especie no debe conducir a su estigmatización, ya que los murciélagos, como grupo, cumplen funciones ecológicas esenciales en los ecosistemas, entre ellas el control de insectos, la dispersión de semillas y la polinización, por lo que cualquier propuesta de intervención debe considerar criterios de conservación y manejo responsable (4, 5).
+La deforestación se ha convertido en una de las amenazas ambientales más críticas a nivel mundial, especialmente en regiones tropicales como la Amazonía. Según reportes internacionales, más del 94% de la deforestación global ocurre en los trópicos, donde se concentran los ecosistemas más biodiversos del planeta (2).
+
 
 <p align = "center">
-  <img width="402.5" height="414.5" alt="Captura de pantalla 2026-04-13 212824" src="https://github.com/user-attachments/assets/ce62410d-6d09-4d98-b34b-8fe0146e66f5" />
+  <img width="402.5" height="414.5" alt="Captura de pantalla 2026-04-13 212824" src="https://github.com/user-attachments/assets/2c17023b-ccc7-48d1-a93c-74e0a825d019" />
   <br>
-  <em>Figura 1. Fotografía de Desmodus rotundus. A. Cuerpo completo; B. Cabeza; C.Pulgar(6)</em>
+  <em>Tala ilegal en la Amazonía peruana (Madre de Dios).
+ Nota. Tomado de Isolated Tribes and Forests Threatened by New Amazon Road, por N. Drake, 2018, National Geographic. (4)
+</em>
 </p>
 
-En Apurímac, un estudio reportó que el índice general de mordeduras por <i>D. rotundus</i> en animales de producción aumentó de 13.87% en 2021 a 15.69% en 2022; en bovinos, dicho índice pasó de 11.11% a 12.05%, mientras que en caprinos ascendió de 27.59% a 39.84% (7). Estos datos muestran que la presión de ataque sobre los animales no es aislada ni marginal, sino persistente y, en algunos casos, creciente. De manera complementaria, investigaciones recientes en Cajamarca identificaron factores de riesgo asociados a la rabia bovina y modeló su potencial expansión hasta el 78,12% de la región, lo que refuerza la necesidad de vigilancia territorial y prevención focalizada (3, 7). 
-El principal riesgo derivado de estas mordeduras no radica únicamente en la pérdida de sangre o en el debilitamiento progresivo del animal, sino en la posibilidad de transmisión de la rabia silvestre, una enfermedad viral que afecta el sistema nervioso central y que es prácticamente mortal una vez que aparecen los síntomas clínicos (2). 
+En este contexto, el Perú no es ajeno a esta problemática. Datos de plataformas como Global Forest Watch muestran que la pérdida de cobertura arbórea en el país ha sido constante desde el año 2001, debido principalmente a actividades humanas como la agricultura, la tala y la expansión de infraestructura. Incluso, en los últimos años se han registrado incrementos significativos en la pérdida de bosques, reflejando una tendencia preocupante que continúa en aumento. Por ejemplo, en el año 2022 se registró la pérdida de aproximadamente 160 mil hectáreas de cobertura arbórea en el Perú, posicionando al país en el 5to lugar de naciones con más bajas de bosque primario a nivel mundial, evidenciando así la magnitud actual del problema , Asimismo, se estima que el 67% de la pérdida de cobertura arbórea en el país está directamente asociada a procesos de deforestación, principalmente por actividades humanas como la agricultura y la tala  (2)(3).
 
-Desde lo económico, la rabia transmitida por <i>Desmodus rotundus</i> genera pérdidas por mortalidad directa, reducción en la producción de carne y leche, así como por los costos de vacunación y control. A nivel regional, la literatura reporta un promedio de 450 brotes anuales de rabia bovina transmitida por vampiros en América Latina entre 1970 y 2023, ubicando a Brasil, Colombia, Perú y México entre los países más afectados (4). En propiedades ganaderas, las pérdidas anuales pueden alcanzar al menos USD 5,000 por predio, mientras que el gasto en vacunación puede oscilar entre USD 2 y USD 1,437, con un promedio anual de USD 148 por propiedad, lo que demuestra que incluso la prevención representa una carga económica sostenida (4). Es importante precisar que el término “predio” hace referencia a una unidad productiva agropecuaria, cuyo tamaño no es fijo, ya que puede variar dependiendo de la extensión del terreno y la cantidad de ganado presente. En el caso peruano, el Censo Nacional Agropecuario 2012 estimó la existencia de 2,260,973 unidades agropecuarias, de los cuales el 68% se encuentra en la Sierra (10), lo que permite dimensionar el alcance potencial del problema. A ello se suman evidencias recientes que confirman la vigencia de la rabia silvestre hasta 2023, así como su impacto económico y sanitario continuo sobre el sector ganadero y las comunidades rurales.
+
 <p align = "center">
-  <img width="640.8" height="498.4" alt="image" src="https://github.com/user-attachments/assets/9d1929b5-6417-4001-8f9a-99deb1854f30" />
+  <img width="640.8" height="498.4" alt="image" src="https://github.com/user-attachments/assets/512ba01f-f926-4733-b63c-d9c79ec4f835" />
   <br>
-  <em>Figura 2. Fotografía de vaca cebú con mordeduras de murciélago vampiro escurriendo sangre (6)</em>
+  <em>Imagen 2. Pérdida de cobertura arbórea en Perú (2001–2024). Fuente: Global Forest Watch (2024).  (3)
+</em>
 </p>
 
-Frente a esta situación, se han planteado soluciones que van desde el uso de mallas en los ganados cerrados hasta el ataque directo a las colonias de estos murciélagos mediante el uso de gases venenosos, insecticidas como el dicloro difenil tricloroetano (DDT), dieldrín y malathion así como explosivos e incendios que provocan daños colaterales a la flora y fauna del lugar afectado (6). A estas intervenciones se le suma el uso de pomadas vampiricidas (anticoagulante en un vehículo como la vaselina), las cuales se les aplica usualmente en los dorsos de los <i>Desmodus rotundus</i> para luego liberarlos y aprovechar su conducta de acicalamiento individual y social a fin de que el veneno sea ingerido por múltiples vampiros (generalmente 15 por murciélago tratado) y provoque su muerte, sin embargo, aquellos que son beneficiosos para el ambiente también terminan siendo víctimas de este método ante la desinformación sobre diferenciación de especies (6,8). Si bien el uso de anticoagulantes ha demostrado alta eficacia para inducir la mortalidad en individuos de Desmodus rotundus, la evidencia científica actual no confirma su efectividad para reducir la transmisión del virus de la rabia a nivel poblacional. Por el contrario, diversos estudios sugieren que la perturbación de las colonias puede incrementar la dispersión del virus, lo que limita la eficacia de esta estrategia como medida de control sanitario (9)
+La importancia de esta problemática radica en sus consecuencias directas sobre el clima. La deforestación contribuye de manera significativa a las emisiones de gases de efecto invernadero, ya que los bosques almacenan grandes cantidades de carbono. Cuando estos son talados o quemados, ese carbono se libera en forma de CO₂, intensificando el calentamiento global [4]. A nivel global, la pérdida de bosques tropicales está directamente relacionada con el incremento de la temperatura del planeta y eventos climáticos extremos.
+Además, la Amazonía peruana alberga una enorme diversidad biológica, considerada una de las más altas del mundo. Sin embargo, la pérdida de hábitats está provocando la disminución de especies y alteraciones en los ecosistemas. La destrucción de estos ambientes también incrementa el riesgo de enfermedades zoonóticas, ya que el contacto entre humanos y animales silvestres se vuelve más frecuente (1)(4).
+A nivel nacional, el problema se agrava por la ilegalidad. En el Perú, se han detectado más de 24 mil metros cúbicos de madera de origen ilegal, así como cargamentos valorizados en millones de soles,lo que evidencia la magnitud económica y ambiental de esta actividad. Un caso representativo es el ocurrido en Ucayali, donde se intervino madera ilegal valorizada en más de seis millones de soles, reflejando la alta rentabilidad de esta práctica y su impacto directo en la deforestación del país  (6)(7). Esto demuestra que la deforestación no solo es un problema ecológico, sino también social y económico.
+
 
 <p align = "center">
-<img width="627.9" height="267.4" alt="imagen" src="https://github.com/user-attachments/assets/4f660c4c-2abc-4177-b2d3-9e6b55a939d1" />
+<img width="627.9" height="267.4" alt="imagen" src="https://github.com/user-attachments/assets/6db46f22-903c-47ca-a43d-522431a6e2e9" />
 <br>
-  <em>Figura 3. Fotografía de aplicación de vampiricida. A. Tarro con vampiricida comercial; B. Aplicación del producto en el lomo de un vampiro capturado (6)</em>
+  <em>magen 3. Intervención de madera ilegal valorizada en más de seis millones de soles en Ucayali. Fuente: Ministerio del Interior del Perú. Ucayali: intervienen madera valorizada en más de seis millones de soles, 2023. (8)</em>
 </p>
+
+Asimismo, el modelo de desarrollo basado en la explotación de recursos ha generado una presión constante sobre los bosques amazónicos. En muchos casos, el crecimiento económico ha sido priorizado sobre la sostenibilidad, lo que ha llevado a la degradación progresiva de los ecosistemas y la pérdida de servicios ambientales esenciales como la regulación del clima y el ciclo del agua (5).
+Desde una perspectiva científica, la deforestación altera procesos fundamentales como el ciclo del carbono y el equilibrio de los ecosistemas, afectando tanto a la naturaleza como a las poblaciones humanas que dependen de estos recursos para su subsistencia (8).
 
 ---
 

@@ -160,7 +160,6 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
     <td align="center">
       <img width="1505" height="861" alt="image" src="https://github.com/user-attachments/assets/000b3622-2696-4c6a-b850-61ebd210ed13" /><br><br>
       
-    </td>
   </tr>
 
   <tr>

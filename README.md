@@ -192,20 +192,20 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
   <tr>
     <th>RESUMEN</th>
     <td>
-      El procesamiento basado en inteligencia artificial puede utilizarse para clasificar la información de audio recibida de una unidad de entrada de audio. Por ejemplo, se puede recibir información de audio de un micrófono configurado para monitorizar un entorno. Un circuito procesador puede identificar una o más características de la información de audio recibida del micrófono y utilizar un primer algoritmo de aprendizaje automático para analizar dichas características y determinar si la información de audio incluye algún indicio de un evento anómalo en el entorno. En otro ejemplo, el circuito procesador puede utilizar un segundo algoritmo de aprendizaje automático diferente, como un algoritmo de aprendizaje profundo basado en redes neuronales, para analizar las mismas características y clasificar la información de audio como indicativa de un tipo de evento específico en el entorno. 
+      El procesamiento basado en inteligencia artificial puede utilizarse para clasificar la información de audio recibida de una unidad de entrada de audio. Por ejemplo, se puede recibir información de audio de un micrófono configurado para monitorizar un entorno. Un circuito procesador puede identificar una o más características de la información de audio recibida del micrófono y utilizar un primer algoritmo de aprendizaje automático para analizar dichas características y determinar si la información de audio incluye algún indicio de un evento anómalo en el entorno. En otro ejemplo, el circuito procesador puede utilizar un segundo algoritmo de aprendizaje automático diferente, como un algoritmo de aprendizaje profundo basado en redes neuronales, para analizar las mismas características y clasificar la información de audio como indicativa de un tipo de evento específico en el entorno 
 .
     </td>
     <td align="center">
-      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/592ed174-f85c-487a-b678-0f3471ca2bc7" />
+      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/4f238f11-dcc6-4a81-b957-6b3f6a5f2cc4" />
       <br><br>
-      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/e716db7f-57ea-4192-b1c3-afad85ed6ee7" />
-    </td>
+      
+    
   </tr>
 
   <tr>
     <th>LINK</th>
     <td colspan="2">
-      <a href="https://worldwide.espacenet.com/patent/search/family/077271698/publication/US11950589B2?q=US11950589B2">
+      <a href="https://worldwide.espacenet.com/patent/search/family/067618015/publication/US2025104698A1?q=US10978050B22">
         Ver patente
       </a>
     </td>

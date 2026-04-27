@@ -143,30 +143,30 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
 <table>
   <tr>
     <th>TÍTULO</th>
-    <td colspan="2"><b>Sistema automático de detección y disuasión de animales</b></td>
+    <td colspan="2"><b>SISTEMA DE DETECCIÓN DE EVENTOS SONOROS ACÚSTICOS</b></td>
   </tr>
 
   <tr>
     <th>NÚMERO DE PUBLICACIÓN</th>
-    <td>US11793190B1</td>
+    <td>US2025046333A1</td>
     <th>IMAGEN</th>
   </tr>
 
   <tr>
     <th>RESUMEN</th>
     <td>
-      Esta divulgación proporciona un método para detectar y disuadir a un animal objetivo de un área determinada. El área objetivo se ubica dentro del campo de visión de una cámara de video conectada a un sistema de procesamiento informático. Un programa informático de identificación animal, que utiliza redes neuronales convolucionales, programas de aprendizaje profundo e imágenes de la cámara, detecta rápidamente al animal objetivo. El programa de identificación animal está entrenado para identificar con precisión a los animales objetivo mediante un algoritmo de aprendizaje y tecnología de aprendizaje automático relacionada. El tiempo de despliegue del dispositivo disuasorio contra el animal objetivo desde el instante de la detección es de 2 segundos o menos, de modo que el animal tiene poco o ningún tiempo para dañar el área objetivo.
+      Esta patente describe un sistema de Machine Learning diseñado exclusivamente para clasificar "sonidos no verbales" (ruidos mecánicos, impactos, motores) extrayendo "embeddings" (vectores de características). El sistema puede aprender a reconocer una nueva clase de sonido (como un modelo específico de motosierra) usando muy pocos ejemplos de audio, sin confundirse con sonidos biológicos.
     </td>
     <td align="center">
-      <img width="1505" height="861" alt="image" src="https://github.com/user-attachments/assets/24f38bc1-0f3d-4969-81dd-855211b1973f" /><br><br>
-      <img width="2550" height="3300" alt="image" src="https://github.com/user-attachments/assets/68989fca-ac6d-4243-ac0f-bd12e5f0b307" />
+      <img width="1505" height="861" alt="image" src="https://github.com/user-attachments/assets/000b3622-2696-4c6a-b850-61ebd210ed13" /><br><br>
+      
     </td>
   </tr>
 
   <tr>
     <th>LINK</th>
     <td colspan="2">
-      <a href="https://worldwide.espacenet.com/patent/search/family/072749447/publication/US11793190B1?q=US11793190B1">
+      <a href="https://worldwide.espacenet.com/patent/search/family/087348851/publication/US2025046333A1?q=US20250046333A1">
         Ver patente
       </a>
     </td>

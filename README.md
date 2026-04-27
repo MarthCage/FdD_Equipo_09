@@ -239,10 +239,10 @@ Este método, dispositivo y sistema basados en la diferenciación de frecuencias
     </td>
     <td align="center">
       <img width="1893" height="1274" alt="image" src="https://github.com/user-attachments/assets/8c10026f-6190-402a-8406-9fba2ab911e2" />
-" />
+.
       <br><br>
       <img width="2320" height="3408" alt="image" src="https://github.com/user-attachments/assets/5af01e5f-a69c-4df5-bd2d-19120677d69f" />
-" />
+.
     </td>
   </tr>
 

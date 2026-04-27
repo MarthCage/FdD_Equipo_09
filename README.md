@@ -179,20 +179,21 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
   <tr>
     <th>TÍTULO</th>
     <td colspan="2"><b>
-      Transductor ultrasónico disuasorio para murciélagos en aplicaciones de turbinas eólicas.
+      Detección de tipo de audio.
     </b></td>
   </tr>
 
   <tr>
     <th>NÚMERO DE PUBLICACIÓN</th>
-    <td>US11950589B2</td>
+    <td>US10978050B2</td>
     <th>IMAGEN</th>
   </tr>
 
   <tr>
     <th>RESUMEN</th>
     <td>
-      Transductor ultrasónico para aplicaciones en turbinas eólicas. El transductor incluye una carcasa con un diafragma central, una pared periférica a su alrededor y una sección flexible que soporta el diafragma con respecto a la pared periférica. El vértice de un cono está fijado al diafragma central de la carcasa y el cono tiene un borde periférico fijado a la pared periférica metálica de la carcasa. Un elemento piezoeléctrico, como un controlador, está fijado al diafragma central de la carcasa, en el lado opuesto al vértice del cono.
+      El procesamiento basado en inteligencia artificial puede utilizarse para clasificar la información de audio recibida de una unidad de entrada de audio. Por ejemplo, se puede recibir información de audio de un micrófono configurado para monitorizar un entorno. Un circuito procesador puede identificar una o más características de la información de audio recibida del micrófono y utilizar un primer algoritmo de aprendizaje automático para analizar dichas características y determinar si la información de audio incluye algún indicio de un evento anómalo en el entorno. En otro ejemplo, el circuito procesador puede utilizar un segundo algoritmo de aprendizaje automático diferente, como un algoritmo de aprendizaje profundo basado en redes neuronales, para analizar las mismas características y clasificar la información de audio como indicativa de un tipo de evento específico en el entorno. 
+.
     </td>
     <td align="center">
       <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/592ed174-f85c-487a-b678-0f3471ca2bc7" />

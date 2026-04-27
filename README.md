@@ -295,42 +295,6 @@ Este método, dispositivo y sistema basados en la diferenciación de frecuencias
 
 <br><br>
 
-<!--- Patente 5 -------------------------------------------------------------------------------------------------->
-<table>
-  <tr>
-    <th>TÍTULO</th>
-    <td colspan="2"><b>
-        EN VER
-    </b></td>
-  </tr>
-
-  <tr>
-    <th>NÚMERO DE PUBLICACIÓN</th>
-    <td> EN VER </td>
-    <th>IMAGEN</th>
-  </tr>
-
-  <tr>
-    <th>RESUMEN</th>
-    <td>
- EN VER.
-    </td>
-    <td align="center">
-      <img width="2550" height="3300" alt="image" src="EN VER" />
-      <br><br>
-      <img width="2550" height="3300" alt="image" src="EN VER" />
-    </td>
-  </tr>
-
-  <tr>
-    <th>LINK</th>
-    <td colspan="2">
-      <a href=" EN VER">
-        Ver patente
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 

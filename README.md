@@ -235,14 +235,11 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
  La invención proporciona un método, un dispositivo y un sistema para la detección de tala ilegal basados en la diferenciación de frecuencias de audio. Este método permite identificar actividades de tala ilegal en cualquier momento mediante la simple recolección de sonidos del entorno, presentando una baja complejidad técnica, así como costos reducidos de desarrollo y uso, además de una alta eficiencia en la detección y ejecución.
 En consecuencia, el dispositivo de detección que emplea este método se caracteriza por su bajo costo de desarrollo, corto tiempo de implementación y alta eficiencia, lo que lo hace adecuado para su producción y desarrollo a nivel industrial. Asimismo, mediante la integración de este dispositivo con funciones de comunicación inalámbrica, se construye un sistema de detección de tala ilegal que permite el monitoreo remoto, la identificación de la ubicación donde ocurre la actividad ilícita y la aplicación de medidas específicas para prevenirla.
 Este método, dispositivo y sistema basados en la diferenciación de frecuencias de audio logran resolver problemas presentes en tecnologías anteriores, como la dificultad en la detección de la tala ilegal y sus altos costos, mostrando además un amplio potencial de aplicación
-.
     </td>
     <td align="center">
       <img width="1893" height="1274" alt="image" src="https://github.com/user-attachments/assets/8c10026f-6190-402a-8406-9fba2ab911e2" />
-.
       <br><br>
       <img width="2320" height="3408" alt="image" src="https://github.com/user-attachments/assets/5af01e5f-a69c-4df5-bd2d-19120677d69f" />
-.
     </td>
   </tr>
 
@@ -263,32 +260,33 @@ Este método, dispositivo y sistema basados en la diferenciación de frecuencias
   <tr>
     <th>TÍTULO</th>
     <td colspan="2"><b>
-        Método para escuchar sonidos ultrasónicos de animales
+        Conjunto de micrófonos para la detección y localización de fuentes sonoras.
     </b></td>
   </tr>
 
   <tr>
     <th>NÚMERO DE PUBLICACIÓN</th>
-    <td>US8599647B2</td>
+    <td>US11237241B2</td>
     <th>IMAGEN</th>
   </tr>
 
   <tr>
     <th>RESUMEN</th>
     <td>
- Un método para escuchar señales de sonido ultrasónico de animales comprende: obtener una pluralidad de muestras de entrada a una tasa de muestreo de entrada, incluyendo la pluralidad de muestras de entrada al menos una secuencia de muestras correspondiente a una instancia de una señal de sonido animal que ocurre intermitentemente; recibir un cuadro que incluye al menos dos de la pluralidad de muestras de entrada; seleccionar una fracción de las muestras como muestras de salida, incluyendo la fracción de las muestras una muestra que contiene la al menos una secuencia de muestras correspondiente a una instancia de una señal de sonido animal que ocurre intermitentemente; y transmitir las muestras de salida a una tasa de muestreo de salida más lenta que la tasa de muestreo de entrada.
+ Se proporcionan sistemas, métodos, soportes tangibles no transitorios legibles por ordenador y dispositivos relacionados con la detección y localización de sonidos. Por ejemplo, se pueden recibir datos de sonido asociados a sonidos. Estos sonidos pueden incluir sonidos de origen y sonidos de fondo captados por micrófonos. A partir de los datos de sonido, se pueden determinar diferencias de tiempo. Cada diferencia de tiempo puede incluir el intervalo entre la recepción de un sonido de origen y la recepción de un sonido de fondo en cada uno de los micrófonos, respectivamente. Un conjunto de sonidos de origen se puede sincronizar en función de las diferencias de tiempo. Se puede generar un sonido de origen amplificado a partir de una combinación del conjunto sincronizado de sonidos de origen. La ubicación de los sonidos de origen se puede determinar a partir del sonido de origen amplificado. En función de la ubicación de origen, se pueden generar señales de control para modificar las acciones de un vehículo autónomo
+.
     </td>
     <td align="center">
-      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/8b21180b-fcbb-41b3-9fc9-d9e308672b0a" />
+      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/c612719a-c616-4fcd-8475-dae0b363fff6" />
       <br><br>
-      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/e0acdbc9-c0de-4103-8055-24835ba83c30" />
+      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/197adc51-cad9-420d-9a11-1a86a0014d5d" />
     </td>
   </tr>
 
   <tr>
     <th>LINK</th>
     <td colspan="2">
-      <a href="https://worldwide.espacenet.com/patent/search/family/044147163/publication/US8599647B2?q=US8599647B2">
+      <a href="https://worldwide.espacenet.com/patent/search/family/075382291/publication/US11237241B2?q=US11237241B2">
         Ver patente
       </a>
     </td>
@@ -302,32 +300,32 @@ Este método, dispositivo y sistema basados en la diferenciación de frecuencias
   <tr>
     <th>TÍTULO</th>
     <td colspan="2"><b>
-        SISTEMA Y MÉTODOS PARA LA DETECCIÓN, MONITOREO Y CONTROL AUTOMATIZADOS DE FAUNA SILVESTRE
+        EN VER
     </b></td>
   </tr>
 
   <tr>
     <th>NÚMERO DE PUBLICACIÓN</th>
-    <td>US2021137097A1</td>
+    <td> EN VER </td>
     <th>IMAGEN</th>
   </tr>
 
   <tr>
     <th>RESUMEN</th>
     <td>
- La presente invención describe un sistema capaz de detectar y reconocer fauna silvestre, en particular aves, mediante imágenes de cámara. Esta solución se compone de algoritmos, software y dispositivos de hardware integrados. Con el equipamiento adecuado, el sistema puede ser portátil y puede instalarse en cualquier lugar para diversas funciones de detección y control de fauna silvestre.
+ EN VER.
     </td>
     <td align="center">
-      <img width="2550" height="3300" alt="image" src="https://github.com/user-attachments/assets/dbe00c89-f68d-4016-92cf-0df4feb97590" />
+      <img width="2550" height="3300" alt="image" src="EN VER" />
       <br><br>
-      <img width="2550" height="3300" alt="image" src="https://github.com/user-attachments/assets/5a367568-a4bd-451c-aab0-ee96d5b1a390" />
+      <img width="2550" height="3300" alt="image" src="EN VER" />
     </td>
   </tr>
 
   <tr>
     <th>LINK</th>
     <td colspan="2">
-      <a href="https://worldwide.espacenet.com/patent/search/family/072896020/publication/US2021137097A1?q=US20210137097A1">
+      <a href=" EN VER">
         Ver patente
       </a>
     </td>

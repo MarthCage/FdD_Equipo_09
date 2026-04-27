@@ -219,32 +219,37 @@ Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sen
   <tr>
     <th>TÍTULO</th>
     <td colspan="2"><b>
-       Método y dispositivo para evitar la colisión con murciélagos y aves en turbinas eólicas multimodo.
+       Método, dispositivo y sistema de detección de tala ilegal basado en la diferenciación de frecuencias de audio.
     </b></td>
   </tr>
 
   <tr>
     <th>NÚMERO DE PUBLICACIÓN</th>
-    <td>CN121587263A</td>
+    <td>CN102393986A</td>
     <th>IMAGEN</th>
   </tr>
 
   <tr>
     <th>RESUMEN</th>
     <td>
- Esta invención se relaciona con el campo de la tecnología de generación de energía eólica, y más particularmente con un método y dispositivo para repeler murciélagos y aves mediante una turbina eólica multimodo. El dispositivo incluye una carcasa exterior con un compartimento de monitoreo, un compartimento repelente y un compartimento de control formado internamente por particiones. Un radar de precisión milimétrica está montado en la parte superior de la carcasa exterior, y una cámara de doble espectro está montada en la parte frontal de la misma, con el radar y la cámara alineados con la posición del compartimento de monitoreo. El compartimento de monitoreo contiene un primer módulo, un segundo módulo y un módulo de reconocimiento de IA. Un altavoz está montado en la parte frontal de la carcasa exterior, y luces estroboscópicas y focos láser están montados a ambos lados de la misma, alineados con la posición del compartimento repelente. Un transmisor ultrasónico está instalado dentro del compartimento repelente, que también contiene un sistema repelente multimodo. Paneles fotovoltaicos están fijados en ambos extremos de la parte superior de la carcasa exterior. El compartimento de control contiene un módulo de alimentación, un módulo hueco y un módulo de comunicación. Este método permite repeler aves y murciélagos de forma eficaz, precisa e inteligente.
+ La invención proporciona un método, un dispositivo y un sistema para la detección de tala ilegal basados en la diferenciación de frecuencias de audio. Este método permite identificar actividades de tala ilegal en cualquier momento mediante la simple recolección de sonidos del entorno, presentando una baja complejidad técnica, así como costos reducidos de desarrollo y uso, además de una alta eficiencia en la detección y ejecución.
+En consecuencia, el dispositivo de detección que emplea este método se caracteriza por su bajo costo de desarrollo, corto tiempo de implementación y alta eficiencia, lo que lo hace adecuado para su producción y desarrollo a nivel industrial. Asimismo, mediante la integración de este dispositivo con funciones de comunicación inalámbrica, se construye un sistema de detección de tala ilegal que permite el monitoreo remoto, la identificación de la ubicación donde ocurre la actividad ilícita y la aplicación de medidas específicas para prevenirla.
+Este método, dispositivo y sistema basados en la diferenciación de frecuencias de audio logran resolver problemas presentes en tecnologías anteriores, como la dificultad en la detección de la tala ilegal y sus altos costos, mostrando además un amplio potencial de aplicación
+.
     </td>
     <td align="center">
-      <img width="1893" height="1274" alt="image" src="https://github.com/user-attachments/assets/3df901fd-7445-4c92-a531-b6a8ec3b67b8" />
+      <img width="1893" height="1274" alt="image" src="https://github.com/user-attachments/assets/8c10026f-6190-402a-8406-9fba2ab911e2" />
+" />
       <br><br>
-      <img width="2320" height="3408" alt="image" src="https://github.com/user-attachments/assets/afc596a0-5760-43d6-88d0-6f7ec242f966" />
+      <img width="2320" height="3408" alt="image" src="https://github.com/user-attachments/assets/5af01e5f-a69c-4df5-bd2d-19120677d69f" />
+" />
     </td>
   </tr>
 
   <tr>
     <th>LINK</th>
     <td colspan="2">
-      <a href="https://worldwide.espacenet.com/patent/search/family/098875679/publication/CN121587263A?q=CN121587263A">
+      <a href="https://worldwide.espacenet.com/patent/search/family/045861294/publication/CN102393986A">
         Ver patente
       </a>
     </td>

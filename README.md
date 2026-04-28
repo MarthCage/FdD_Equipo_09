@@ -122,7 +122,7 @@ Desde una perspectiva científica, la deforestación altera procesos fundamental
 ---
 
 ### <code> Solución ── .✦🌟 </code> 
-En respuesta a la necesidad de una solución no invasiva, y tras analizar la magnitud de la problemática, se propone el desarrollo de un dispositivo tecnológico innovador diseñado para detectar una posible tala ilegal en zonas vulnerables del Amazonas. Este sistema funcionará como un mecanismo de monitoreo inteligente que integrará un micrófono MAX9814 para captar los sonidos del ambiente y, mediante las señales, diferenciar motosierras, voces o maquinaria.
+En respuesta a la necesidad de una solución no invasiva, y tras analizar la magnitud de la problemática, se propone el desarrollo de un dispositivo tecnológico innovador diseñado para detectar una posible tala ilegal en zonas vulnerables del Amazonas. Este sistema funcionará como un mecanismo de monitoreo inteligente que integrará un micrófono MAX9814 para captar los sonidos del ambiente y, mediante los espectros, diferenciar motosierras, voces o maquinaria.
 
 Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sensores como el mmWare 24Ghz y el MPU6050 mediante un bajo consumo energético y una aplicación relativamente accesible, donde la confirmación de sonidos, ubicación y presencia se puedan ver mediante una app de celular. De esta manera, se busca ofrecer una solución eficiente, sostenible y respetuosa con el equilibrio ecológico, capaz de reducir los ataques al ganado sin recurrir a métodos extremos, promoviendo así una convivencia más armónica entre la actividad ganadera y la conservación del ecosistema.
 

@@ -260,33 +260,32 @@ Este método, dispositivo y sistema basados en la diferenciación de frecuencias
   <tr>
     <th>TÍTULO</th>
     <td colspan="2"><b>
-        Conjunto de micrófonos para la detección y localización de fuentes sonoras.
+        Sistema dinámico de firmas acústicas con fusión de sensores para la tala ilegal en la selva tropical
     </b></td>
   </tr>
 
   <tr>
     <th>NÚMERO DE PUBLICACIÓN</th>
-    <td>US11237241B2</td>
+    <td>US20240054154A1</td>
     <th>IMAGEN</th>
   </tr>
 
   <tr>
     <th>RESUMEN</th>
     <td>
- Se proporcionan sistemas, métodos, soportes tangibles no transitorios legibles por ordenador y dispositivos relacionados con la detección y localización de sonidos. Por ejemplo, se pueden recibir datos de sonido asociados a sonidos. Estos sonidos pueden incluir sonidos de origen y sonidos de fondo captados por micrófonos. A partir de los datos de sonido, se pueden determinar diferencias de tiempo. Cada diferencia de tiempo puede incluir el intervalo entre la recepción de un sonido de origen y la recepción de un sonido de fondo en cada uno de los micrófonos, respectivamente. Un conjunto de sonidos de origen se puede sincronizar en función de las diferencias de tiempo. Se puede generar un sonido de origen amplificado a partir de una combinación del conjunto sincronizado de sonidos de origen. La ubicación de los sonidos de origen se puede determinar a partir del sonido de origen amplificado. En función de la ubicación de origen, se pueden generar señales de control para modificar las acciones de un vehículo autónomo
-.
+ Las implementaciones de ejemplo descritas en este documento pueden estar dirigidas a detectar una perturbación humana a partir de datos de sensores transmitidos desde uno o más sensores dentro de una red de sensores; procesar la perturbación humana detectada para determinar una probabilidad de un evento de motosierra —por ejemplo, un evento de motosierra leve o intenso— y un tiempo estimado de anticipación para dicho evento de motosierra en un área asociada con uno o más sensores; y determinar, para los sensores vecinos de esos sensores dentro de la red, una probabilidad de cambio de estado hacia la perturbación humana o hacia el evento de motosierra en otras áreas asociadas con los sensores vecinos.
     </td>
     <td align="center">
-      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/c612719a-c616-4fcd-8475-dae0b363fff6" />
+      <img width="1876" height="1560" alt="image" src="https://github.com/user-attachments/assets/6810cc2e-0089-4551-b479-6974e8dac53f" />
       <br><br>
-      <img width="2560" height="3300" alt="image" src="https://github.com/user-attachments/assets/197adc51-cad9-420d-9a11-1a86a0014d5d" />
+      <img width="2550" height="3300" alt="image" src="https://github.com/user-attachments/assets/d2c02efd-7d85-4228-a843-5c10f57c6919" />
     </td>
   </tr>
 
   <tr>
     <th>LINK</th>
     <td colspan="2">
-      <a href="https://worldwide.espacenet.com/patent/search/family/075382291/publication/US11237241B2?q=US11237241B2">
+      <a href="https://worldwide.espacenet.com/patent/search/family/082259630/publication/US2024054154A1?q=US20240054154A1">
         Ver patente
       </a>
     </td>

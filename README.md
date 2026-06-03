@@ -121,11 +121,10 @@ Desde una perspectiva científica, la deforestación altera procesos fundamental
 ---
 
 ### <code> Solución ── .✦🌟 </code> 
-En respuesta a la necesidad de una solución no invasiva, y tras analizar la magnitud de la problemática, se propone el desarrollo de un dispositivo tecnológico innovador diseñado para detectar una posible tala ilegal en zonas vulnerables del Amazonas. Este sistema funcionará como un mecanismo de monitoreo inteligente que integrará un micrófono para captar los sonidos del ambiente y, mediante los espectros, diferenciar motosierras, voces o maquinaria.
+En respuesta a la necesidad de una solución no invasiva y tras analizar la magnitud de la problemática, se propone el desarrollo de un dispositivo tecnológico innovador diseñado para detectar posibles actividades de tala ilegal en zonas vulnerables de la Amazonía. Este sistema funcionará como un mecanismo de monitoreo inteligente que integrará un micrófono para captar los sonidos del entorno y, mediante el análisis de espectros de frecuencia y técnicas de inteligencia artificial, diferenciar sonidos asociados a motosierras, maquinaria pesada, voces humanas y otros eventos relevantes.
 
-Asimismo, el dispositivo estará basado en un sistema de tecnología ESP32 y sensores como el de presencia y uno de vibración mediante un bajo consumo energético y una aplicación relativamente accesible, donde la confirmación de sonidos, ubicación y presencia se puedan ver mediante una app de celular. De esta manera, se busca ofrecer una solución eficiente, sostenible y respetuosa con el equilibrio ecológico, capaz de reducir los ataques al ganado sin recurrir a métodos extremos, promoviendo así una convivencia más armónica entre la actividad ganadera y la conservación del ecosistema.
+Asimismo, el dispositivo estará basado en un microcontrolador ESP32-S3 e integrará sensores de presencia, vibración e inclinación, además de un módulo GPS para la geolocalización de eventos. Gracias a su bajo consumo energético y a la integración con una aplicación móvil, los usuarios podrán visualizar alertas, ubicación aproximada y nivel de riesgo en tiempo real. De esta manera, se busca ofrecer una solución eficiente, accesible y sostenible que contribuya a la detección temprana de actividades de tala ilegal, fortaleciendo la vigilancia forestal y apoyando la conservación de los ecosistemas amazónicos.
 
----
 
 ### <code> Objetivos ── .✦✅ </code>
 

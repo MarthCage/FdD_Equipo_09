@@ -76,10 +76,9 @@ Somos el **Equipo 09** del curso **Fundamentos de Diseño 2026-1**, conformado p
 ---
 
 ### <code> ODS elegida ── .✦🌍 </code> 
-En este presente proyecto de innovación, se ha decidido abordar una problemática vinculada al Objetivo de Desarrollo Sostenible 15 (ODS15): Vida y ecosistema terrestre, propuesto en la Agenda 2030. Este objetivo comprende un conjunto amplio de metas interrelacionadas que evidencian un enfoque integral orientado a la conservación de los ecosistemas terrestres y de la biodiversidad, buscando soluciones que permitan reducir los conflictos entre la actividad humana y la fauna silvestre sin alterar el equilibrio ecológico (1).
+En este presente proyecto de innovación, se abordar una problemática vinculada al Objetivo de Desarrollo Sostenible 15 (ODS15): Vida de Ecosistema Terrestre, propuesto en la Agenda 2030. Este objetivo comprende un conjunto amplio de metas interrelacionadas que reflejan un enfoque integral orientado a la conservación de los ecosistemas terrestres y de la biodiversidad, promoviendo  soluciones que contribuyan a reducir el impacto de las actividad humana y la fauna silvestre sin alterar el equilibrio ecológico (1).
 
-A partir de esta perspectiva, nuestro proyecto se centrará en la prevención de la pérdida de bosques por tala ilegal e incendios.
-
+A partir de esta perspectiva, nuestro proyecto se centrará en la prevención de la pérdida de bosques ocasionada por la tala ilegal.
 
 ---
 

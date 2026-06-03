@@ -128,11 +128,11 @@ Asimismo, el dispositivo estará basado en un microcontrolador ESP32-S3 e integr
 
 ### <code> Objetivos ── .✦✅ </code>
 
-- Diseñar un sistema con tecnología ESP32 para detectar y reportar una tala ilegal.
-- Implementar un micrófono para obtener sonidos y diferenciar motosierras y voces humanas del ambiente.
-- Integrar un detector cercano de personas para asegurar la posible acción.
-- Reducir las talas ilegales.
-- Contribuir al ODS 15 promoviendo el equilibrio entre ganadería y ecosistema.
+- Diseñar un sistema basado en ESP32-S3 para detectar posibles casos de tala ilegal.
+- Implementar un micrófono para identificar sonidos de motosierras, maquinaria y voces humanas.
+- Integrar sensores de presencia y vibración para mejorar la precisión de detección.
+- Enviar alertas con ubicación GPS a una aplicación móvil en tiempo real.
+- Contribuir a la vigilancia y conservación de los bosques en el marco del ODS 15.
 
 ---
 

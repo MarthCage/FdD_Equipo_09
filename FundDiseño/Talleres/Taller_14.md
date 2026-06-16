@@ -323,7 +323,11 @@ Los bloques principales utilizados son:
 - `Clock1.Timer`
 
 --- 
+
 <img width="925" height="617" alt="imagen" src="https://github.com/user-attachments/assets/26c1927a-6e92-462a-b7c1-44e9f8422076" />
+<img width="997" height="552" alt="imagen" src="https://github.com/user-attachments/assets/2f61c134-53fe-487d-8001-5be31018ab69" />
+
+---
 
 ### 7.1 Bloque `Screen1.Initialize`
 
@@ -428,8 +432,6 @@ Estado: Error D:
 Este mensaje indica que no se pudo establecer la conexión Bluetooth. Esto puede suceder si el ESP32 está apagado, si no fue emparejado previamente con el celular o si se seleccionó un dispositivo incorrecto.
 
 ---
-
-<img width="997" height="552" alt="imagen" src="https://github.com/user-attachments/assets/2f61c134-53fe-487d-8001-5be31018ab69" />
 
 ### 7.4 Bloque `slider.PositionChanged`
 

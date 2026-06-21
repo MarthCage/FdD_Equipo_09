@@ -26,7 +26,7 @@ En respuesta a la necesidad de una solución no invasiva y tras analizar la magn
 
 Por ello, el dispositivo estará basado en un microcontrolador e integrará sensores de presencia, vibración e inclinación, además de un módulo GPS para la geolocalización de eventos. Gracias a su bajo consumo energético y a la integración con una aplicación móvil, los usuarios podrán visualizar alertas, ubicación aproximada y nivel de riesgo en tiempo real. De esta manera, se busca ofrecer una solución eficiente, accesible y sostenible que contribuya a la detección temprana de actividades de tala ilegal, fortaleciendo la vigilancia forestal y apoyando la conservación de los ecosistemas amazónicos.
 
-## Bibliografía:
+### Bibliografía:
 1. Moran M. ODS15: Bosques, desertificación y diversidad biológica [Internet]. Desarrollo Sostenible. 26 de enero de 2024 [citado el 14 de abril de 2026]. Disponible en: https://www.un.org/sustainabledevelopment/es/biodiversity/
 2. Weisse M, Goldman E, Carter S. ¿Cuánto bosque se perdió en 2022? [Internet]. Global Forest Review; 2023 [citado 19 de abril de 2026]. Disponible en: https://gfr.wri.org/es/global-tree-cover-loss-data-2022  
 3. Global Forest Watch. Peru Deforestation Rates & Statistics [Internet]. Washington, D.C.: Global Forest Watch; s. f. [citado 19 de abril de 2026]. Disponible en: https://www.globalforestwatch.org/dashboards/country/PER/ 
@@ -59,7 +59,7 @@ En respuesta a la necesidad de una solución no invasiva, y tras analizar la mag
 
 Asimismo, el dispositivo estará basado en un sistema de tecnología basado en un microcontrolador y sensores de presencia junto a un sensor de luz que permitirá su implementación en zonas rurales mediante un bajo consumo energético y una aplicación relativamente accesible, donde los registros de ataques y alarmas se puedan ver mediante una app de celular. De esta manera, se busca ofrecer una solución eficiente, sostenible y respetuosa con el equilibrio ecológico, capaz de reducir los ataques al ganado sin recurrir a métodos extremos, promoviendo así una convivencia más armónica entre la actividad ganadera y la conservación del ecosistema.
 
-## Bibliografía:
+### Bibliografía:
 1. Moran M. ODS15: Bosques, desertificación y diversidad biológica [Internet]. Desarrollo Sostenible. 2015 [citado el 14 de abril de 2026]. Disponible en: https://www.un.org/sustainabledevelopment/es/biodiversity/ 
 2. Rabia [Internet]. Who.int. 5 de junio de 2024 [citado el 14 de abril de 2026]. Disponible en: https://www.who.int/es/news-room/fact-sheets/detail/rabies  
 3. Vista de Factores de riesgo asociados a casos de rabia bovina y potencial distribución hacia zonas vulnerables en Cajamarca, Perú [Internet]. Edicionescervantes.com. 2025 [citado el 14 de abril de 2026]. Disponible en: https://www.censa.edicionescervantes.com/index.php/RSA/article/view/1446/2739 

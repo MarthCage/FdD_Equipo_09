@@ -1,3 +1,0 @@
-Introducción + bibliografía:
-
-https://docs.google.com/document/d/1mCl-0nBT8qC9GOeKVOaoGF8aC3w5GAA1mXGDExGldD8/edit?tab=t.0

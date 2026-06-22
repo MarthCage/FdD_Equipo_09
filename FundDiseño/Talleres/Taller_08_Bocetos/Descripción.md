@@ -26,8 +26,7 @@ Concepto con panel solar rígido en la parte superior para captar energía. Fija
 
 ![Boceto 3](boceto3.png)
 
-Concepto completo con panel solar inclinado, carcasa protectora y sistema de sujeción al árbol. Incluye módulo de comunicación para transmisión de datos y notificación remota de alertas.
+Concepto completo con panel solar inclinado, carcasa protectora y sistema de sujeción al árbol. 
+
 
 ---
-
-**Grupo 9 | UPCH - 2026**

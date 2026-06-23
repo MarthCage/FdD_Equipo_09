@@ -44,6 +44,3 @@
 - **Link:** https://worldwide.espacenet.com/patent/search/family/067618015/publication/US2025104698A1?q=pn%3DUS2025104698A1
 
 ---
-
-3. **Inteligencia Artificial:** La patente US2025104698A1 respalda el uso de IA para clasificación
-4. **Bajo costo:** La patente CN102393986A demuestra que es posible implementar sistemas efectivos con componentes accesibles
